@@ -3,3 +3,4 @@
 *.npy
 *.tmp
 *.csv
+*.ctd
