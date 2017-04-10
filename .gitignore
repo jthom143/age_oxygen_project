@@ -2,4 +2,4 @@
 *.nc
 *.npy
 *.tmp
-#.csv
+*.csv
