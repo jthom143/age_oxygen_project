@@ -1,0 +1,127 @@
+%++++++++++++++++++++++++++++++++++++++++
+% Don't modify this section unless you know what you're doing!
+\documentclass[article,12pt]{article}
+\usepackage{tabularx} % extra features for tabular environment
+\usepackage{amsmath}  % improve math presentation
+\usepackage{graphicx} % takes care of graphic including machinery
+\usepackage[margin=1in,letterpaper]{geometry} % decreases margins
+\usepackage{cite} % takes care of citations
+\usepackage{sectsty} % change font size of section headers
+\sectionfont{\fontsize{12}{15}\selectfont}
+
+%++++++++++++++++++++++++++++++++++++++++
+
+
+\begin{document}
+
+\section{Chapter 3 Plan:}
+\begin{enumerate}
+  \item What is the relationship between age and oxygen in GFDL ESM2Mc?
+  \begin{enumerate}
+      \item What is the spatial variability of this relationship?
+      \item What does this relationship say about the underlying mechanisms changing
+      oxygen concentration?
+  \end{enumerate}
+  \item How have Southern Ocean ventilation rates have changed over the last three
+  decades using ship-based repeat hydrography measurements of CFC-11 and CFC-12
+  (following method used in Waugh et al., 2013).
+  \item What is the impact of changing circulation on oxygen?
+\end{enumerate}
+
+\section{Motivation}
+\begin{itemize}
+  \item Recent data assimilating ocean circulation model study suggest strength of upper-ocean overturning circulation has
+  strengthened in the last decade (2000--2009) resulting in an increase of the upper
+  ocean carbon sink~\cite{Devries2017}.
+  \item This is a direct reversal in the trend documented by observations and modeling
+  studies in the previous decade (1990--1999)~\cite{Lovenduski2007,Waugh2013b,LeQuere2007e}.
+  \item Unclear whether these decadal trends are a result of changing anthropogenic
+  forcing, or decadal variability in ocean circulation.
+  \item Also observed decrease in oxygen concentration in the Southern Ocean over
+  the period 1960--2009 is consistent with a previous study citing an observed decline
+  of deep water formation of Antarctic water masses~\cite{Purkey2012} and may also represent
+  changes in the wind-driven ventilation~\cite{Schmidtko2017}.
+\end{itemize}
+
+\section{Model Analysis:}
+\noindent{\textbf{What is the relationship between age and oxygen in GFDL ESM2Mc?}}
+\begin{itemize}
+    \item What is the spatial variability of this relationship?
+    \item What does this relationship say about the underlying mechanisms changing
+    oxygen concentration?
+\end{itemize}
+
+\noindent{\textbf{To Do List:}}
+\begin{enumerate}
+  \item Plot correlation and regression coefficients between age and oxygen for
+  each depth level in ocean.
+  \item Define and calculate AOU and OUR.
+  \item Plot zonal averaged age, oxygen, and AOU for each ocean basin (Atlantic,
+  Pacific, Indian)
+  \item Plot correlation between age and oxygen for lat vs depth for each ocean basin.
+\end{enumerate}
+
+
+\noindent{\textbf{Ventilation, overturning and consumption.}}
+Current understanding of oceans attributes deep-ocean oxygen loss to four processes:
+\begin{enumerate}
+  \item A reduction of ventilation in deep convective regions which provides less
+  ventilated waters in high latitudes and a reduction of mixed layer subduction in
+  mid and high latitudes. The timescales of these changes are long (50-100 years) because
+  of the time it takes for oxygen-reduced waters to advect through the global basins
+  before affecting older waters.
+  \item A slowdown of the meridional overturning circulation which would reduce the amount
+  of oxygenated waters that are mixed with older waters and thus increase the age
+  of deep waters in general.
+  \item An increase in biological activity in the upper ocean. This would increase
+  remineralization and thus oxygen consumption at depth.
+  \item Natural multi-decadal variability that is not accurately captured by the
+  sparse data available.
+\end{enumerate}
+
+\noindent{\textbf{TTD Analysis to Constrain Estimates of Age.}}
+
+Why use transit time distributions?
+\begin{itemize}
+  \item Tracer ages from different tracers yield different times. It is not clear
+  what aspects of the transport are measured by different tracers.
+  \item Can use a \textit{distribution of transit times} to compare the timescales
+  derived from different tracers.
+  \item It is the distribution, rather than the particular tracers age, that is a
+  fundamental descriptor of the flow.
+  \item Each tracer, because of its different boundary condition or decay rate,
+  weights the features of the distribution differently.
+
+\end{itemize}
+
+\noindent{\textbf{Oxygen Distribution in the Oceans}}
+
+\noindent{\textit{Separation of Preformed and Remineralized Components:}}
+
+To study the impact of aerobic remineralization on the ocean interior distribution
+of oxygen we can estimate the remineralized component i.e. the change in O$_2$
+since the water parcel was last in contact with the atmosphere:
+$$
+\Delta[O_2]_{remin} = [O_2]_{observed} + [O_2]_{preformed}
+$$
+
+For oxygen, the surface ocean is generally close to saturation (the gas exchange of
+oxygen is more rapid than the residence time at the surface). Therefore we can
+generally assume that the $[O_2]_{preformed}=[O_2]_{saturation}$. Since the saturation
+can be computed from the potential temperature and salinity, we can thus estimate
+the remineralized component of oxygen, for which the term \textit{Apparent Oxygen
+Utilization} is commonly used:
+$$
+AOU = [O_2]_{sat} - [O_2]
+$$
+ where $AOU = - \Delta[O_2]_{remin}$. The assumption that the preformed oxygen concentration
+ is equal to the oxygen saturation is not always valid. In particular, the low latitude
+ ocean is slightly supersaturated in oxygen. These supersaturated waters ventilate 
+
+
+
+
+
+\bibliographystyle{abbrv}
+\bibliography{/RESEARCH/library.bib}
+\end{document}
