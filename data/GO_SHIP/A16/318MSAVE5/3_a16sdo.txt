@@ -1,0 +1,2767 @@
+      1.  CRUISE NARRATIVE: A16S
+          (Last update: 2004.09.24)
+      
+
+      1.1  HIGHLIGHTS
+
+
+
+                           WHP CRUISE SUMMARY INFORMATION
+
+               WOCE section designation  A16S
+      Expedition designation (EXPOCODE)  318MSAVE5
+          Chief Scientists/affiliations  DR. WILLIAM A. SMETHIE / LDEO
+                                         DR. MICHAEL MCCARTNEY/WHOI
+
+                           Cruise dates  1989.JAN.23 - 1989.MAR.08
+                                   Ship  R/V MELVILLE
+                          Ports of call  Cape Town, South Africa to 
+                                         Montevideo, Uruguay
+                     Number of stations  73 CTD/Rosette (13 Large Volume)
+
+                                                     32°16.70' S
+        Stations' geographic boundaries  50°15.60' W             00°59.10' E
+                                                     53°58.10' S
+           Floats and drifters deployed  0
+         Moorings deployed or recovered  0
+        
+
+                           CHIEF SCIENTISTS' CONTACT INFO.
+
+             Dr. William A. Smethie • Lamont-Doherty Earth Observatory
+                     Columbia University • Palisades  NY  10964
+                     TEL: 914-359-2900 x566 • FAX: 914-365-8157
+                          EMAIL: bsmeth@ldeo.columbia.edu
+
+         Dr. Michael McCartney • Dept. of Physical Oceanography, Clark 344
+           Woods Hole Oceanographic Institution • Woods Hole  MA  02543
+                       TEL: 508-289-2797 • FAX: 508-457-2181
+                             EMAIL: mike@gaff.whoi.edu
+
+
+
+
+                       SOUTH ATLANTIC VENTILATION EXPERIMENT
+                                       (SAVE)
+                                       Leg 5
+                                    R/V MELVILLE
+                           23 January 1989 - 8 March 1989
+                   Cape Town, South Africa to Montevideo, Uruguay
+
+                              Data Report Prepared by:
+
+                            Oceanographic Data Facility
+                        Scripps Institution of Oceanography
+                        University of California, San Diego
+
+                                     April 1992
+
+      
+      Sponsored by
+
+      National Science Foundation                        ODF Publication No. 232
+      Grand OCE-86 13330                                     SIO Reference 92-10
+
+
+
+      CHIEF SCIENTIST'S OVERVIEW
+      
+      Leg 5 of SAVE (denoted Hydros 3 by Scripps, and A16C for the WOCE project) 
+      was carried out on the R/V Melville and was actually a combination of a 
+      meridional section across the Argentine Basin at 41°W and a short section 
+      perpendicular to the western boundary at about 35°S planned as part of 
+      SAVE, and the southern end of a meridional. long line in the Atlantic 
+      Ocean planned by M. McCartney, L. Talley and M. Tsuchiya that extended 
+      from 32.5°S, 25°W to South Georgia Island
+      
+      The cruise departed from Cape Town on January 23,1989 at 1400. The first 
+      station, a reoccupation of AJAX station 44 at 36°S, 1°E, was taken on 
+      January 26. Work began on the 25°W line on February I with station 237 
+      taken at 32°30' S, 25°00' W. The southernmost station (278) just north 
+      of South Georgia Island was taken on February 17. The station spacing 
+      was about 30 na. mi. along this line. The section along 41°W (stations 
+      279-304) was occupied between February 18 and March 2 with a station 
+      spacing of about 65 na. mi. The portion of the western boundary section 
+      outside Uruguay's 200 mile zone (stations 305-308) was taken between 
+      March 4 and March 6. Stations inside Uruguay's 200 mile zone were taken 
+      on the following leg when an Uruguayan observer was on board. The cruise 
+      ended in Montevideo on March 8, one day later than scheduled. The one 
+      day delay was caused by a breakdown of the main engine, which was 
+      repaired at sea.
+      
+      The total number of miles steamed was 5989 and the total number of CTD-
+      rosette stations occupied was 73. These stations were taken using a Neil 
+      Brown CTD interfaced to a Scripps Ocean Data Facility rosette equipped 
+      with thirty-six 10 liter bottles. At 13 of the stations large volume 
+      samples were collected using Gerard barrels. Generally 18 large volume 
+      samples were collected between the surface and the bottom. The total 
+      steaming time for the cruise was 25 days, 15 hours and the total station 
+      time was 17 days, 5 hours. Originally, 81 stations had been planned, but 
+      8 stations were dropped because of time lost during rough weather. 
+      Approximately 1.25 days were lost because of slow steaming and greater 
+      time required to complete casts in rough weather and an equal amount of 
+      time us lost because of equipment failures during rough weather. Most of 
+      the equipment failures were Gerard barrels not tripping properly and 
+      breaks in the CTD termination.1. 
+
+      
+      
+      LIST OF PARTICIPANTS
+      
+      Ship's Captain     | Curtis D. Johnson       | Scripps Institution of 
+                         |                         |   Oceanography
+      -------------------|-------------------------|--------------------------
+      Chief Scientist    | William M. Smethie, Jr. | Lamont-Doherty Geological 
+                         |                         |   Observatory
+      -------------------|-------------------------|--------------------------
+      Co-chief Scientist | Michael S. McCartney    | Woods Hole Oceanographic 
+                         |                         |   Institution
+
+      
+      IFREMER, Brest, France                   Kevin G. Speer
+
+      Lamont-Doherty Geological Observatory    Michael T. Benjamin
+                                               Richard P. Cember 
+                                               Mieczyslawa Klas 
+                                               Kathy A. Tedesco
+
+      Massachusetts Institute of Technology    Stephen G. Zemba
+
+      Physics Institute of Bern, Switzerland   Jose M. Rodriguez
+
+      Princeton University                     Richard J. Rotter
+
+      Scripps Institution of Oceanography/ODF  David L. Bos 
+                                               Carol Conway 
+                                               Frank M. Delahoyde 
+                                               Arthur W. Hester 
+                                               John K. Jain 
+                                               Leonard T. Lopez 
+                                               Douglas Masten 
+                                               David A. Muus
+
+      Scripps Institution of Oceanography      George H. Bouchard 
+                                               Ronald L. Comer 
+                                               Frederick A. Van Woy
+
+      Texas A&M University                     Bret B. Bergland
+
+      Woods Hole Oceanographic Institution     Danuta Kaminski 
+                                               Jan C. Zemba
+                                                     
+
+
+
+      Leg      | STATIONS  |      DEPARTURE          |      ARRIVAL
+      ---------|-----------|-------------------------|------------------------
+      SAVE 1   |   1 - 43  | Recife, Brazil          | Abidjan, Ivory Coast
+               |           |   23 November 1987      |   13 December 1987
+      ---------|-----------|-------------------------|------------------------
+      SAVE 2   |  44 - 105 | Abidjan, Ivory Coast    | Rio de Janeiro, Brazil
+               |           |   18 December 1987      |   23 January 1988
+      ---------|-----------|-------------------------|------------------------
+      SAVE 3   | 106 - 170 | Rio de Janeiro, Brazil  | Abidjan, Ivory Coast
+               |           |   29 January 1988       |   07 March 1988
+      ---------|-----------|-------------------------|------------------------
+      SAVE 4   | 171 - 235 | Punta Arenas, Chile     | Cape Town, South Africa
+               |           |   07 December 1988      |   15 January 1989
+      ---------|-----------|-------------------------|------------------------
+      SAVE 5   | 236 - 308 | Cape Town, South Africa | Montevideo, Uruguay
+               |           |   23 January 1989       |   08 March 1989
+      ---------|-----------|-------------------------|------------------------
+      HYDROS-4 | 309 - 379 | Montevideo, Uruguay     | Bridgetown, Barbados
+               |           |   13 March 1989         |   19 April 1989
+      
+      
+      
+
+      INTRODUCTION  
+      
+      The broad objectives of the South Atlantic Ventilation Experiment (SAVE) 
+      are to investigate the rates of ocean circulation, mixing, ventilation, 
+      inter-ocean exchange, and carbon, oxygen and nutrient cycling on an 
+      ocean basin scale. Transient and radioactive tracers are well suited for 
+      pursuing these objectives because they integrate over various spatial 
+      and temporal scales, providing strong constraints on time-averaged rates 
+      of circulation and mixing, and revealing pathways between the air/sea 
+      interface and the abyssal ocean that are not always discernible from 
+      traditional hydrographic and nutrient observations. The results should 
+      lead to a better understanding of the ocean's major role in the earth's 
+      climate, via its control of the global heat and carbon dioxide budgets.
+      
+      The specific problems that will be addressed include:
+      
+      1) Exchange of South Atlantic waters with the North Atlantic, Pacific, 
+         Antarctic and Indian Oceans,
+      2) Formation and spreading rates of intermediate waters,
+      3) Thermocline ventilation rates and locations,
+      4) Rates of biologically-mediated metabolic processes,
+      5) Diapycnic processes,
+      6) Origins of deep and bottom waters and their spreading routes and 
+         rates.
+
+      Underway/XBT Program
+
+      XBT casts were usually taken between CTD stations. Where the station 
+      spacing was 30nm, one XBT was taken and for greater spacing 2 XBTs were 
+      taken. The XBT casts were accompanied by water samples for dissolved 
+      oxygen, pCO2, salinity and nutrients taken from the Melville's clean 
+      seawater line.
+
+      Bathymetry
+
+      Depth was measured continuously along the entire cruise track using a 
+      12KHz precision depth recorder. The raw data was digitized by hand at 5-
+      minute intervals and a tape of the reduced data will be produced by the 
+      Geological Data Center at Scripps.
+
+
+                         A16S (SAVE 5) • Smethie/McCartney • R/V Melville • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+      2.  BOTTLE DATA COLLECTION, ANALYSES, AND PROCESSING
+      
+      ODF CTD/rosette casts were carried out with a 36-bottle rosette sampler 
+      of ODF manufacture using a General Oceanics pylon. An ODF-modified NBIS 
+      Mark 3 CTD and a SeaTech transmissometer provided by Texas A&M 
+      University (TAMU) were mounted on the rosette frame. Seawater samples 
+      were collected in 10-liter PVC Niskin bottles mounted on the rosette 
+      frame. These bottles were numbered 1 through 36, if one of these 36 
+      bottles needed servicing and repairs could not be accomplished by the 
+      next cast, the replacement bottle was numbered 71-78. Added CTD levels, 
+      no water samples, were assigned bottle numbers 95-99. Subsets of CTD 
+      data taken at the time of water sample collection (a 10 second average) 
+      were transmitted to the bottle data files immediately after each cast to 
+      provide pressure and temperature at the sampling depth, and to 
+      facilitate the examination and quality control of the bottle data as the 
+      laboratory analyses were completed.
+      
+      After each rosette cast was brought on board, water samples were drawn 
+      in the following order: Freon, Helium-3, Oxygen, Oxygen-18, pCO2. …CO2, 
+      Tritium, Nutrients, Salinity and Suspended Particulate Matter. Other 
+      ancillary program samples were drawn after the core samples. The samples 
+      and the Niskin sampler they were drawn from were recorded on the Sample 
+      Log sheet. Comments regarding validity of the water sample (valve open, 
+      lanyard caught in lid, etc.) were also noted on the Sample Log sheets.
+      
+      Table 1 is a tabulation of samples collected during all six legs [SAVE 
+      Legs 1 through 5 (STS/ODF, 1992) and HYDROS Leg 4 (STS/ODF, 1992)] 
+      unless otherwise noted and includes the Principal Investigators and 
+      their institutions. Samples collected on each station are tabulated in 
+      the Station and Cast Description.
+      
+      Gerard casts were carried out with -270 liter stainless steel Gerard 
+      barrels on which were mounted 2-liter Niskin bottles with reversing 
+      thermometers. Samples for salinity, 14C, 228Ra, 39Ar, and 85Kr Were 
+      obtained from the Gerard barrels. The Gerard barrels were numbered 81 
+      through 91 and the piggy-back Niskin were numbered 41 through 70. 
+      Surface samples taken from the ship's underway pump line were assigned a 
+      bottle number of 98 through 99. Salinity check samples were always drawn 
+      from the Niskin bottles for comparison with the Gerard barrel salinities 
+      to try to verify the integrity of the Gerard sample. Occasionally, 
+      barium and some of the samples normally taken from the rosette were also 
+      drawn from the Gerard-mounted Niskin bottle. These were also recorded on 
+      a Sample Log sheet.
+      
+      The discrete hydrographic data were entered into the shipboard data 
+      system and processed as the analyses were completed. The bottle data 
+      were brought to a useable, though perhaps not final, state at sea. ODF 
+      data checking procedures included verification that the sample was 
+      assigned to the correct level. This was accomplished by checking the raw 
+      data sheets, which included the raw data value and the water sample 
+      bottle, versus the sample log sheets. Any comments regarding the water 
+      samples were investigated. The raw data computer files were also checked 
+      for entry errors. Investigation of data included comparison of bottle 
+      salinity and oxygen with CTD data, and review of data plots of the 
+      station profile alone and compared to nearby stations.
+      
+      If a data value did not either agree satisfactorily with the CTD or with 
+      other nearby data, then analyst and sampling notes, plots, and nearby 
+      data were reviewed. If any problem was indicated the data value was 
+      flagged or deleted. (However, ODF preserves in its archives all bottle 
+      data values). The Bottle Data Processing Notes section includes comments 
+      regarding deletion of samples.
+      
+      If it was determined that an entire 10 liter water sample was 
+      contaminated by leakage or other bottle or rosette malfunction, the 
+      level is reported with just the CTD data (pressure, temperature and 
+      salinity). This has been done to preserve the profile and accommodate 
+      investigators who prefer using bottle data files exclusively.
+      
+
+                                # Of   ||                        # Of 
+             Parameter         Samples || Parameter             Samples
+             ----------------- ------- || --------------------- -------
+             discrete salinity  3179   || pCO2                   845
+             discrete temp.      546   || suspended part.        369
+             oxygen             2530   || Keeling C02 Neodynium   20
+             nutrients          2517   || Barium                 280
+             CFMs               1592   || 14C                    187
+             Helium-3            346   || Ra-228                 237
+             Tritium             346   || Kr-85                   87
+             TCO2               1040   || Ar-39                   13
+
+
+      2.1. PRESSURE AND TEMPERATURES
+      
+      All pressures and temperatures for the Niskin bottle data tabulations on 
+      the rosette casts were extracted from the processed CTD data, usually 
+      those from the corrected 10-second average bottle trip files collected 
+      during the up cast (see CTD DATA COLLECTION, ANALYSES, AND PROCESSING).
+      
+      Gerard pressures and temperatures were calculated from Deep-Sea 
+      Reversing Thermometer (DSRT) readings. Each DSRT rack normally held 2 
+      protected (temperature) thermometers and I unprotected (pressure) 
+      thermometer. Thermometers were read by two people, each attempting to 
+      read a precision equal to one tenth of the thermometer etching interval. 
+      Thus, a thermometer etched at 0.05 degree intervals would be read to the 
+      nearest 0.005 degrees. Each temperature value is therefore calculated 
+      from the average of four readings.
+
+          IT SHOULD BE CLEARLY NOTED THAT THE TEMPERATURES PRODUCED AND 
+          PUBLISHED BY ODF IN THIS REPORT ARE BASED ON THE INTERNATIONAL 
+          PRACTICAL TEMPERATURE SCALE OF 1968, RATHER THAN THE CURRENTLY 
+          USED INTERNATIONAL TEMPERATURE SCALE OF 1990. 
+                (The expedition took place before I January 1990, 
+                          the starting date for ITS-90).
+      
+
+      2.2. SALINITY
+      
+      Salinity samples were drawn into ODF citrate salinity bottles which were 
+      rinsed three times before filling. Salinity was determined after sample 
+      equilibration to laboratory temperature, usually within about 8-36 hours 
+      of collection. Salinity has been calculated according to the equations 
+      of the Practical Salinity Scale of 1978 (UNESCO, 198 1) from the 
+      conductivity ratio determined from bottle samples analyzed (minimum of 
+      two recorded analyses per sample bottle after flushing) with a Guildline 
+      Autosal Model 8400A salinometer standardized against Wormley P- 108 
+      standard seawater, with at least one fresh vial opened per cast, or from 
+      the corrected CTD conductivity, temperature, and pressure.
+      
+      Accuracy estimates of bottle salinities run at sea are usually better 
+      than 0.002 psu relative to the specified batch of standard. Although 
+      laboratory precision of the Autosal can be as small as 0.0002 psu when 
+      running replicate samples under ideal conditions, at sea the expected 
+      precision is about 0.001 psu under normal conditions, with a stable lab 
+      temperature. Still, because a small droplet of fresh water, or the 
+      residue from a small evaporated droplet of seawater, can affect a bottle 
+      salinity in the third decimal place, and because the Autosal salinometer 
+      is sensitive to environmental fluctuations, salinities from bottle 
+      samples have a lower true precision under field conditions than in the 
+      laboratory. ODF typically deleted the Niskin bottle salinity from this 
+      report, and substituted the corrected CTD salinity, whenever there was 
+      any question regarding its validity (see BOTTLE DATA PROCESSING NOTES).
+      
+
+      2.3. OXYGEN
+      
+      Samples were collected for dissolved oxygen analyses soon after the 
+      rosette sampler was brought on board and after CFC and Helium were 
+      drawn. Nominal 100 ml volume iodine flasks were rinsed carefully with 
+      minimal agitation, then filled via a drawing tube, and allowed to 
+      overflow for at least 2 flask volumes. Reagents were added to fix the 
+      oxygen before stoppering. The flasks were shaken twice; immediately, and 
+      after 20 minutes, to assure thorough dispersion of the Mn(OH)2 
+      precipitate. The samples were analyzed within 4-36 hours.
+      
+      Dissolved oxygen samples were titrated in the volume-calibrated iodine 
+      flasks with a I ml microburet, using the whole-bottle Winkler titration 
+      following the technique of Carpenter (1965). Standardizations were 
+      performed with 0.01N potassium iodate solutions prepared from pre-
+      weighed potassium iodate crystals. Standards were run at the beginning 
+      of each session of analyses, which typically included from I to 3 
+      stations. Several standards were made up and compared to assure that the 
+      results were reproducible, and to preclude basing the entire cruise on 
+      one standard, with the possibility of a weighing error. A correction (-
+      0.014 ml/l) was made for the amount of oxygen added with the reagents. 
+      Combined reagent/seawater blanks were determined to account for 
+      oxidizing or reducing materials in the reagents, and for a nominal level 
+      of natural iodate (Brewer and Wong, 1974) or other oxidizers/reducers in 
+      the seawater.
+      
+      The assay of the finest quality K103 available to ODF is 100%, ±0.05%, 
+      but the true limit in the quality of the bottle oxygen data lies in the 
+      practical limitations of the present sampling and analytical 
+      methodology, from the time the rosette bottle is closed through the 
+      calculation of oxygen concentration from titration data. Overall 
+      precision within a group of samples has been determined from replicates 
+      on numerous occasions, and for the system as employed on this 
+      expedition, one may expect ±0.1 to 0.2%. The overall accuracy of the 
+      data is estimated to be ±0.5%.
+      
+      
+      TABLE 1: SCIENTIFIC PROGRAMS
+      
+      Participating | Principal                   | Scientific          |
+      Institutions  | Investigators               | Programs            | Leg
+      --------------|-----------------------------|---------------------|----
+      STS/ODF       | Mr. David Wirth             | Salinity            | ALL
+                    |                             | Oxygen              | ALL
+                    |                             | Nitrate, Nitrite,   | ALL
+                    |                             | Phosphate, Silicate | ALL
+                    |                             | CTD Profiles        | ALL
+      --------------|-----------------------------|---------------------|----
+      LDGO          | Dr. Wallace S. Broecker     | Carbon-14           | ALL
+      MIAMI         | Dr. H. Göte Ostlund         |                     |
+      MIAMI         | Dr. Zafer Top               |                     |
+      --------------|-----------------------------|---------------------|----
+      WHOI          | Dr. William J. Jenkins      | Helium-3            | ALL
+                    |                             | Tritium             | ALL
+      --------------|-----------------------------|---------------------|----
+      PRINCE        | Dr. Jorge L. Sarmiento      | Radium-228          | ALL
+      PRINCE        | Dr. Robert M. Key           | Radium-226          | ALL
+      SIO           | Dr. Ray F. Weiss            | Freon-11            | ALL
+      LDGO          | Dr. William M. Smethie, Jr. | Freon-12            | ALL
+      LDGO          | Dr. William M. Smethie, Jr. | Krypton-85          | ALL
+      --------------|-----------------------------|---------------------|----
+      BERN          | Dr. Heinz Loosli            | Argon-39            | ALL
+      LDGO          | Dr. William M. Smethie, Jr. |                     |
+      BERN          | Dr. J. H. Oeschger          |                     |
+      --------------|-----------------------------|---------------------|----
+      LDGO          | Dr. Taro Takahashi          | Total CO2           | ALL
+                    |                             | pCO2                |
+      --------------|-----------------------------|---------------------|---
+      LDGO          | Dr. Arnold Gordon           | XBT Profiles        | ALL
+      LDGO          | Mr. Stanley Jacobs          |                     |
+                     
+      
+      ANCILLARY PROGRAMS
+                     
+      Participating | Principal              | Scientific  
+      Institutions  | Investigators          | Programs                         | Leg
+      --------------|------------------------|----------------------------------|-----
+      TAMU          | Dr. Wifford Gardner    | Suspended Particulate Matter     | ALL
+                    |                        | Transmissometer                  | ALL
+      --------------|------------------------|----------------------------------|-----
+      SIO           | Dr. Charles D. Keeling | Total CO2                        | ALL
+      SIO/GDC       | Mr. Stuart M. Smith    | Bathymetry                       | ALL
+      LDGO          | Dr. James K. B. Bishop | Barium                           | ALL
+      --------------|------------------------|----------------------------------|-----
+      SIO           | Dr. Ray F. Weiss       | Underway pN20, pCO2, pCH4        | ALL
+                    |                        | Underway Surface Measurements    | ALL
+      --------------|------------------------|----------------------------------|-----
+      LDGO          | Dr. Andrew McIntyre    | Coccolith                        |  1
+      URI           | Dr. Michael Bender     | Oxygen-18                        |  2
+      LDGO          | Dr. K. K. Liu          | Nitrogen-15                      |  2
+      --------------|------------------------|----------------------------------|-----
+      UH            | Dr. Chris Measures     | Beryllium Isotopes               |  3
+                    |                        | Aluminum                         |  3
+      --------------|------------------------|----------------------------------|-----
+      CNES/GRGS     | Dr. Catherine Jeandel  | Neodymium                        |4 & 5
+      SIO           | Dr. Martin Whelen      | 13C, 14C in methane (air samples)|  5
+      
+      
+      INSTITUTION CODES:
+      -----------------------------------------------------------------------
+      BERN       Physics Institute of Bern, Switzerland
+      CNES/GRGS  Observatorie of Midi-pyrenees, Toulouse, France
+      LDGO       Lamont-Doherty Geological Observatory of Columbia University
+      MIAMI      University of Miami
+      PRINCE     Princeton University
+      SIO        Scripps Institution of Oceanography
+      SIO/GDC    Scripps Institution of Oceanography/Geological Data Center
+      STS/ODF    Shipboard Technical Support/Oceanographic Data Facility
+      TAMU       Texas A & M
+      UH         University of Hawaii
+      URI        University of Rhode Island
+      WHOI       Woods Hole Oceanographic Institution
+      
+      
+      Oxygens were converted from milliliters per liter to micromoles per 
+      kilogram using the equation:
+
+             O2[µm/kg]=O2[ml/l]/(.022392*(1.0+sigma theta/1000.0))
+      
+      The potential density anomaly, sigma theta, is the potential density in 
+      kg/m3 referenced to pressure=0, from which 1000 has been subtracted.
+      
+
+      2.4. NUTRIENTS
+      
+      Nutrients (phosphate, silicate, nitrate and nitrite) analyses, reported 
+      in micromoles/kilogram, were performed on a Technicon AutoAnalyzer(r). 
+      The procedures used are described in Hager et al. (1972) and Atlas et 
+      al. (1971). Standardizations were performed with solutions prepared 
+      aboard ship from pre-weighed standards; these solutions were used as 
+      working standards before and after each cast (approximately 36 samples) 
+      to correct for instrumental drift during analyses. Sets of 4-6 different 
+      concentrations of shipboard standards were analyzed periodically to 
+      determine the linearity of colorimeter response and the resulting 
+      correction factors. Phosphate was analyzed using hydrazine reduction of 
+      phosphomolybdic acid as described by Bernhardt & Wilhelms (1967). 
+      Silicate was analyzed using stannous chloride reduction of 
+      silicomolybdic acid. Nitrite was analyzed using diazotization and 
+      coupling to form dye; nitrate was reduced by copperized cadmium and then 
+      analyzed as nitrite. These three analyses use the methods of Armstrong 
+      et al. (1967).
+      
+      Sampling for nutrients followed that for the tracer gases, CFCs, He, 
+      Tritium, and dissolved oxygen. Samples were drawn into -45 cc high 
+      density polyethylene, narrow mouth, screw-capped bottles which were 
+      rinsed twice before filling. The samples may have been refrigerated at 2 
+      to 6°C for a maximum of 15 hours.
+      
+      Nutrients were converted from micromoles per liter to micromoles per 
+      kilogram by dividing by sample density calculated at an assumed 
+      laboratory temperature of 25°C.
+
+
+                         A16S (SAVE 5) • Smethie/McCartney • R/V Melville • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+      3. CTD DATA COLLECTION, ANALYSES, AND PROCESSING
+      
+      Year-2 of SAVE (Legs 4 and 5) were processed with Hydros-4 therefore 
+      there may be references made to Hydros-4. 209 CTD casts were completed 
+      using a 36-bottle rosette sampling system; 64 casts were completed on 
+      Save Leg 4, 74 on Save Leg 5 one of which was a test and not reported in 
+      this report, and 71 casts on Hydros-4. STS/ODF CTDs #1 and #2, modified 
+      NBIS Mark IIl-B instruments, were both used during SAVE-4; CTD-1 was 
+      used exclusively on SAVE-5 and Hydros-4. The CTD data were initially 
+      processed into a filtered, half-second average time-series during the 
+      data acquisition. The pressure and PRT temperature channels were 
+      corrected using laboratory calibrations. The conductivity/salinity 
+      channels were calibrated to salinity check samples acquired on each 
+      cast. The CTD time-series data were then pressure-sequenced into 2-
+      decibar pressure intervals, and the pressure series oxygen channel was 
+      corrected to match oxygen check samples acquired on each upcast.
+      
+
+      3.1. CTD LABORATORY CALIBRATIONS
+      3.1.1. PRESSURE TRANSDUCER CALIBRATION
+      
+      Each CTD pressure transducer was calibrated in a temperature-controlled 
+      bath by comparison with pressures generated by a Ruska Model 2400 piston 
+      gage. The mechanical hysteresis loading and unloading curves were 
+      measured both pre- and post-cruise at cold temperature (-I to 0.5°C 
+      bath) to a maximum of 8830 psi, and at warm temperature (28-30°C bath) 
+      to a maximum of 2030 psi.
+      
+      3.1.2. PRT TEMPERATURE CALIBRATION
+      
+      The CTD-1 and all CTD-2 PRT temperature sensors were calibrated in a 
+      temperature-controlled bath by comparison with temperatures calculated 
+      from the resistance of a Rosemount Model 162CE standard platinum 
+      thermometer, measured by a NBIS model ATB 1250 resistance bridge. The 
+      Rosemount standard PRT was checked periodically in water and diphenyl 
+      ether triple-point cells. Seven or more calibration temperatures, spaced 
+      across the range of 0 to 30°C, were measured both pre- and post-cruise. 
+      The CTD-2 primary PRT temperature transducer was replaced after SAVE-4, 
+      station 185, so the pre- and post-cruise calibrations for that 
+      temperature channel are not comparable.
+      
+      
+      3.2. CTD DATA PROCESSING
+      3.2.1. CTD DATA ACQUISITION
+      
+      Eight data channels (pressure, temperature, second temperature, 
+      conductivity, dissolved oxygen, transmissometer, altimeter and elapsed 
+      time) were acquired by CTD-2 at a data rate of 25 Hz. CTD-1 acquired 
+      seven cbannels, having only one temperature transducer. The FSK CTD 
+      signal was demodulated by an STS/ODF-designed deck unit and output to an 
+      RS-232 bus interface. An Integrated Solutions, Inc. (ISI) Optimum V 
+      computer served as the real-time data acquisition processor.
+      
+      Data acquisition consisted of storing all raw binary data on hard disk, 
+      then on magnetic cartridge tape, and generating a corrected and filtered 
+      half-second average time-series. Data calculated from this time series 
+      were reported and plotted during the cast. A 10-second average of the 
+      time-series data was calculated for each water sample collected during 
+      the data acquisition.
+      
+      Generating the half-second time-series data set involved applying 
+      single-frame absolute value and gradient filters, then performing a two-
+      pass 4,2 standard-deviation data rejection to all channels. During the 
+      acquisition, the pre-cruise laboratory calibration data were applied to 
+      pressure and temperature. Pressure, conductivity and oxygen were matched 
+      to the thermal response of the PRT temperature transducer. This lag time 
+      was determined using raw CTD data from the cruise. The conductivity and 
+      oxygen channels were corrected for thermal and pressure effects.
+      
+      3.2.2. PRESSURE, TEMPERATURE AND CONDUCTIVITY/SALINITY CORRECTIONS
+      
+      A maximum of 36 salinity and oxygen check samples, plus 4 thermometric 
+      pressure and temperature measurements, were collected during each CTD 
+      cast. A 10-second average of the CTD time-series data was calculated for 
+      each trip time sample. The resulting data were then used to verify the 
+      pre- and post-cruise pressure and temperature calibrations, and to 
+      derive CTD conductivity/salinity and oxygen corrections.
+      
+      3.2.2.1. CTD PRESSURE CORRECTIONS
+      3.2.2.1.1. CTD #2
+
+      The pre- and post-cruise pressure calibrations were compared. The 
+      warm/shallow calibration curve shifted by almost 3 decibars from pre- to 
+      post-cruise, and the cold/deep calibration curve shifted by 3.5 
+      decibars. There were no notable slope differences between the two sets 
+      of calibrations. Offsets are adjusted automatically for each station as 
+      the CTD enters the water, so there were no significant differences 
+      between the two calibration results for CTD-2.
+      
+      Since all CTD-2 casts were done during the first of the three Hydros 
+      legs, closer to the pre-cruise calibrations, no change was made to the 
+      shipboard CTD-2 pressure data, to which the pre-cruise pressure 
+      calibrations had already been applied. Thermometric pressures collected 
+      during the CTD-2 casts were minimal because of numerous lanyard hangups 
+      or other problems. The few acceptable check-pressure differences gave no 
+      indication of any problems with the CTD-2 calibrated pressures.
+      
+      3.2.2.1.2. CTD #1
+
+      The laboratory calibration for CTD-1 at the end of Hydros-4 disclosed a 
+      pressure problem affecting all three Hydros (SAVE/Year-2) legs:
+      
+      a.  Although pre- and post-cruise pressure calibrations matched (to 
+          within 0.2 decibars) below 1190 decibars, the 0-decibar calibration 
+          point differed by 2.5 decibars (loading) and 3 decibars (unloading) 
+          between pre- and post-cruise.
+      b.  There was a sudden 6-decibar jump in pressure response between the 
+          1050- and 1190-decibar calibration points on the loading curve during 
+          the post-cruise calibration.
+      c.  The jump does not appear in the unloading curve, but shallower than 
+          the 1400-decibar point, the post-cruise begins to deviate from the 
+          pre-cruise calibration to a maximum of 3 decibars at the 0-decibar 
+          calibration point.
+      d.  The post-cruise pressure calibration was repeated, giving similar 
+          results.
+      
+      The pre-cruise calibrations were re-checked, and a smaller/shallower 
+      indication of the same problem could be seen on the cold loading curve 
+      at 365 decibars. CTD-1 downcasts from all three legs of the cruise were 
+      checked for sudden pressure shifts between 800 and 1600 decibars.
+      
+      The CTD-1 half-second time-series downcasts were checked for a ratio of 
+      pressure difference to time difference ("r") greater than 2.5 
+      (equivalent to a winch speed of 150 m/min). For each station with a 
+      sudden pressure shift visible on Pressure vs. Time plots, there was 
+      exactly one area where r was between 4 and 13. All but six of the jumps 
+      occurred between 1000 and 1550 decibars, where the temperature ranged 
+      from about 2.5 to 4°C. The other six jumps, between 900 and 1000 
+      decibars, occurred during casts at the beginning of SAVE-4 and at the 
+      end of Hydros-4 All detectable rapid changes in pressure occurred in 0.6 
+      to 1.5 seconds and were 1.5 to 10.2 decibars in magnitude.
+      
+      95 out of 192 CTD-1 casts were affected by a pressure jump as described 
+      above. There were problems on many sequential casts, then no detectable 
+      problem for many more casts in a row. The pressure at which the jump 
+      occurred, and the magnitude of the jump, seemed to be random: there was 
+      no apparent correlation to water temperature or elapsed time from the 
+      cruise start.
+      
+      A "baseline" pressure correction curve was generated by averaging the 
+      pre- and post-cruise calibration curves for each of the shallow/warm and 
+      deep/cold data sets, then removing the 500- to 1500-decibar distortion 
+      of the post-cruise calibrations by using the shape of the more typical 
+      pre-cruise curve. This averaged out the surface differences and 
+      maintained the deep consistency in the calibrations. This average 
+      correction curve was used for all casts in which no pressure problem was 
+      detected.
+      
+      Customized pressure corrections were generated for problem casts, as 
+      identified by areas of r greater than 3.5. The "baseline" curve 
+      described in the previous paragraph was used as the starting point for 
+      each cast. The "average" curve was used from the surface to 365 decibars 
+      and from the post-"jump" pressure to the bottom. The correction for the 
+      beginning pressure of the jump was the post-jump correction value plus 
+      the jump size, minus the real pressure change occurring in that time. A 
+      straight-line correction was used between 365 decibars down and the 
+      beginning pressure of the jump on the cold curve.
+      
+      The average upcast calibration curves were retained for each cast unless 
+      the last corrected in-water surface pressure of an upcast was less than 
+      -0.6 decibars. In these cases, the upcast correction curve was adjusted 
+      by 0 at 365 decibars to a maximum of +1.5 decibars at the surface, which 
+      allowed the curve to resemble the shape of the pre-cruise curve in cases 
+      where the end-pressure warranted it.
+      
+      The corrections applied were intended to correct the distorted pressures 
+      to within 2 decibars to maintain the WOCE CTD salinity standards. It 
+      should be noted that other problems may still exist, but are not 
+      detectable at this time. CTD-1 pressure data above 1600 decibars should 
+      not be considered accurate to better than 2 decibars, while deeper data 
+      should be within more typical error ranges.
+      
+      Thermometric pressures collected during the casts were compared with 
+      CTD- 1 corrected pressure data. Any differences between the two sets of 
+      pressures appeared to be rack-dependent.
+      
+      3.2.2.2. CTD TEMPERATURE CORRECTIONS
+      3.2.2.2.1. CTD #2
+      
+      CTD-2 had two PRTs. PRT-1 was the main temperature sensor and began 
+      drifting during station 177, seven stations into SAVE-4. The drifting 
+      increased by stations 183-185, where it was finally isolated as a 
+      temperature problem rather than a conductivity problem. PRT-2 was a 
+      secondary temperature sensor installed to provide a check for the 
+      primary PRT; it was used as the primary PRT for stations 177-185 and 
+      210. PRT-2 was not located as near to the conductivity sensor as PRT-1 
+      and therefore generated noisier CTD salinity data, as it was measuring 
+      slightly different water and could not be matched properly to the 
+      conductivity sensor response. CTD-2 was used for all stations from 171-
+      185, plus 210 and 218: CTD-2 was re-installed at these last two stations 
+      to test the new PRT-1 sensor, to ensure that CTD-2 could be used as a 
+      backup if CTD-1 failed later in the expedition.
+      
+      The pre- and post-cruise laboratory temperature transducer calibrations 
+      for PRT-1 were not comparable because a new sensor was installed during 
+      SAVE-4 PRT-1a and PRT-2 data from the pre-cruise laboratory calibration 
+      and from shipboard casts were compared to see if the relative difference 
+      between them changed. There was good agreement between these two CTD-2 
+      PRTs, the differences being consistent at calibration, within a given 
+      station, and from station to station. No shift in either sensor occurred 
+      until station 176, when the difference increased by .002. Since PRT- la 
+      began shifting noticeably in the same direction during station 177, an 
+      additional +.002 temperature offset was applied to station 176 data, 
+      assuming some change may have begun at that time.
+      
+      A new sensor (PRT-1b) was installed in CTD-2 after station 185. The CTD 
+      was used/tested during station 210, where PRT-1b also displayed a 
+      drifting problem. CTD-2 was worked on again, then tested at station 218:
+      
+      PRT-1b functioned normally and was used as the CTD-1 primary PRT for 
+      that cast. PRT-1b and PRT-2 differences from station 218 and the post-
+      cruise calibration were compared. The post-cruise difference was an 
+      average -.022 compared to the station 218 difference. PRT-2 shifted by 
+      -.013 from pre-cruise to post-cruise laboratory calibrations, which 
+      points to a -.035 shift in PRT-1b between station 218 and the post-
+      cruise calibration. Two deep thermometric temperatures from station 218 
+      also support this shift. The post-cruise PRT-1b laboratory calibration 
+      curve, with an additional -.035 offset, was applied to station 218 CTD 
+      temperature data.
+      
+      A comparison of the pre- and post-cruise laboratory CTD-2/PRT-2 
+      temperature transducer calibrations showed an average -.013°C shift for 
+      PRT-2. There was also a small slope difference between the two PRT-2 
+      calibrations. Since CTD-2 was used mostly at the beginning of the 
+      expedition and there is no evidence to show that PRT-2 shifted by the 
+      last cast it was used for, the pre-cruise PRT-2 laboratory temperature 
+      calibration was applied to stations 177-185 and 210 CTD data.
+      
+      The few thermometric temperature differences available for comparison 
+      with CTD-2 data support the temperature corrections used. Additional 
+      verification of the temperature corrections was obtained by comparing 
+      bottle salinity differences vs. CTD values generated from corrected 
+      pressure and temperature, plus raw conductivity. There were no sudden 
+      shifts in preliminary salinity differences on casts where a different 
+      primary PRT was used or when temperature corrections were offset from 
+      the laboratory calibrations.
+      
+      3.2.2.2.2. CTD #1
+      
+      CTD-1 had a single temperature sensor and was used for stations 186 
+      through 379, except stations 210 and 218. A comparison of the pre- and 
+      post-cruise laboratory CTD-1 PRT temperature transducer calibrations 
+      showed a shift varying from -.001°C at cold temperatures to -.0017 at 
+      warm temperatures. An average of the two laboratory calibrations was 
+      applied to the CTD-1 temperature data.
+      
+      Thermometric temperature data from the cruise were compared to the 
+      calibrated CTD-1 temperature data. Any offsets in the differences tended 
+      to correlate with thermometer rack number, no shifts in CTD-1 
+      temperature data could be detected over the course of the cruise.
+      
+      3.2.2.3. CTD CONDUCTIVITY CORRECTIONS
+      3.2.2.3.1. CTD #2
+
+      Check-sample conductivities were calculated from the bottle salinities 
+      using CTD-2 pressures and temperatures. The differences between sample 
+      and CTD conductivities at all pressures were fit to CTD conductivity 
+      using a linear least-squares fit. A conductivity correction slope was 
+      not warranted at that time.
+      
+      Conductivity differences were then calculated: offsets were determined 
+      for each cast and fit to station number. Preliminary offsets were 
+      applied to stations 171 through 175 individually, based on conductivity 
+      differences at pressures below 100 decibars. Stations 176-185 
+      conductivity differences below 1000 decibars were re-fit, and smoothed 
+      offsets were applied to those casts. Stations 210 and 218 conductivity 
+      offsets were determined individually based on differences below 1000 
+      decibars. The offsets were manually adjusted to account for 
+      discontinuous shifts in the conductivity transducer response, or to 
+      insure a consistent deep theta-S relationship from station to station.
+      
+      After applying the conductivity offsets, the need for a conductivity 
+      slope as a function of conductivity was reevaluated: no slope was 
+      required.
+      
+      3.2.2.3.2. CTD #1
+      
+      Check-sample conductivities were calculated from the bottle salinities 
+      using CTD pressures and temperatures. The differences between sample and 
+      CTD-1 conductivities at all pressures were fit to CTD conductivity using 
+      a linear least-squares fit. Values greater than 2 standard deviations 
+      from the fit were rejected. The resulting conductivity correction slope 
+      was applied to each CTD-1 cast.
+      
+      Conductivity differences were calculated for each cast after applying 
+      the preliminary conductivity slope correction. Residual conductivity 
+      offsets were then computed for each cast and fit to station number. 
+      Smoothed offsets were determined in three groups: stations 186-189 
+      (first-order fit), stations 190-202 (0-order/same offset for all casts) 
+      and stations 203-379 (0-order/same offset for all casts). The resulting 
+      smoothed offsets were then applied to the data, then conductivity slope 
+      as a function of conductivity was re-checked: no change was warranted. 
+      Some offsets were manually adjusted to account for discontinuous shifts 
+      in the conductivity transducer response, or to insure a consistent deep 
+      theta-S relationship from station to station.
+      
+      It was noted that stations 190-202 had numerous casts of inconsistent 
+      bottle data values caused by a scum buildup in the Autosal cell. Adding 
+      to this problem were CTD-1 conductivity offsetting problems caused by 
+      sensor fouling on stations 192 and 202. The Autosal was thoroughly 
+      cleaned and checked before station 200 deep salts were run, and the CTD 
+      conductivity sensor was thoroughly cleaned both before and after station 
+      202. No effect on conductivity values was noted after opening up CTD-1
+      two separate times to repair the non-functioning multiplexer channel 
+      (after stations 192 and 255).
+      
+      3.2.2.3.3. BOTTLE VS. CTD CONDUCTIVITY STATISTICAL SUMMARY
+      
+      The Hydros (SAVE/Year-2) calibrated bottle-minus-CTD conductivity 
+      differences yield the following statistical results:
+
+                               Mean conductivity
+        Cruise  Pressure           difference       Standard   #values
+        leg     range(dbars)  (bottle-CTD mmho/cm)  deviation  in mean
+        ------  ------------- --------------------  ---------  -------
+        SAVE-4  all pressures       -.00076          .00578     1944
+                allp (4,2rej)       -.00039          .00227     1805
+                press < 1500        -.00113          .00769      991
+                press > 1500        -.00034          .00238      952
+        SAVE-5  all pressures       -.00011          .00400     2311
+                allp (4,2rej)       -.00012          .00137     2176
+                press < 1500        -.00002          .00552     1174
+                press > 1500        -.00021          .00104     1137
+        --------------------------------------------------------------
+               "4,2rei" means a 4,2 standard-deviation rejection 
+                 filter was applied to the differences before 
+                      generating the results.
+      
+      
+      3.2.3. CTD DISSOLVED OXYGEN DATA
+      3.2.3.1. CTD OXYGEN CORRECTIONS
+      
+      Dissolved oxygen data were acquired using a Sensormedics dissolved 
+      oxygen sensor. During the three legs of the cruise, three oxygen sensors 
+      were used. The original sensor on CTD #2 was used for stations 171 
+      through 183, then failed during station 184. A replacement sensor did 
+      not work on stations 185 and 210, then functioned normally on station 
+      218 following various repairs. The CTD #1 oxygen sensor was used for all 
+      other CTD casts except station 279, where a new sensor faded; the 
+      original sensor was re-installed.
+      
+      CTD raw oxygen currents were extracted from the downcast pressure-series 
+      data (upcast for station 202) at isopycnals corresponding to the upcast 
+      check-samples. The differences between CTD and check-sample dissolved 
+      oxygens were used to generate coefficients for the sensor model on a 
+      station-by-station basis. Bottle oxygen values were weighted as needed 
+      to optimize the fitting of CTD oxygen to discrete bottle samples.
+      
+      3.2.3.2. BOTTLE VS. CTD OXYGEN STATISTICAL SUMMARY
+      
+      After the CTD oxygen fitting was completed, the upcast bottle values 
+      were compared to the corrected CTD oxygen values. The bottle-minus-CTD 
+      oxygen differences resulted in the statistics below:
+
+                                  Mean oxygen
+        Cruise  Pressure           difference      Standard   #values
+        leg     range(dbars)    (bottle-CTD ml/1)  deviation  in mean
+        ------  -------------   -----------------  ---------  -------
+        SAVE-4  all pressures       -.0009          .0813      1883
+                allp (4,2rej)       +.0001          .0391      1740
+                press < 1500        -.0044          .1095       963
+                press > 1500        +.0027          .0312       920
+        SAVE-5  all pressures       -.0032          .0780      2361
+                allp (4,2rej)       +.0003          .0382      2193
+                press < 1500        -.0071          .1036      1196
+                press > 1500        +.0009          .0356      1165
+        -------------------------------------------------------------
+               * 4,2 standard deviation data rejection
+      
+      
+      3.2.4. ADDITIONAL PROCESSING
+      
+      A software filter was used on a third of the casts to remove larger 
+      conductivity or temperature spiking problems. Additionally, oxygen 
+      spikes were filtered out of nearly half of the casts. Pressure did not 
+      require filtering 0.35% of the time-series data were affected by the 
+      filter. Two-thirds of the spiking problems were concentrated in the CTD-
+      2/PRT-2 casts, where the distance between the secondary PRT and the 
+      conductivity sensor resulted in poor signal match-up in high-gradient 
+      areas, and station 202, with its fouled-sensor problem. After filtering, 
+      the downcast (upcast for station 202) portion of each time-series was 
+      pressure-sequenced into 2-decibar pressure intervals. A ship-roll. 
+      filter was applied to each cast to disallow pressure reversals.
+      
+      The remaining density inversions in high-gradient regions cannot be 
+      accounted for by a mis-match of pressure, temperature and conductivity 
+      sensor response. Detailed examination of the raw data shows significant   
+      mixing occurring in these areas because of ship roll. The ship-roll 
+      filter resulted in a reduction in the amount and size of density 
+      inversions.
+      
+
+      3.3. GENERAL COMMENTS/PROBLEMS
+      
+      There were 212 CTD rosette casts: three of these (station 178 casts 2 
+      and 3, plus station 328 cast 1) were aborted because of various computer 
+      problems, but another CTD cast was done immediately afterward at the 
+      same locations. There is one pressure-sequenced CTD data set, to near 
+      the ocean floor, for each of 209 stations. The data reported is all from 
+      downcasts, excepting station 202, which is an upcast. The effect of the 
+      initial sensor fouling on station 202's downcast was not possible to 
+      filter out, while the upcast problems were mostly resolvable.
+      
+      The 0-decibar level of some casts was extrapolated using a quadratic fit 
+      through the next three deeper levels. Recorded surface values were 
+      rejected only when it appeared that the drift was caused by sensors 
+      adjusting to the in-water transition; if there were any question that 
+      the that the surface values might be real, the original data was 
+      reported.
+      
+      Several shipboard time-series data sets had areas of missing or noisy 
+      data. These casts were recovered by redigitizing the raw signal from 
+      analog tape. A total of 9 data levels were interpolated in 8 casts: the 
+      pressures for these interpolated data frames are listed in the CTD 
+      Processing Notes as well as other shipboard or processing comments 
+      regarding individual casts.
+      
+      During conductivity data calibrations it was noticed that there was an 
+      apparent +.002 conductivity offset in the deep data for some stations. 
+      This apparent offset appeared in both the downcasts and upcasts for the 
+      affected stations. A similar phenomenon has been noticed before in this 
+      and other CTDs where the raw conductivity value crosses from 32.768 to 
+      32.767. On some stations, a -.002 shift back appears yet deeper, where 
+      the raw conductivity value crosses back over to 32.767 from the other 
+      direction. This is a problem specific to certain instruments, and 
+      currently there is no correction. It is most noticeable in Atlantic 
+      Ocean data because this particular conductivity crossover" value 
+      typically occurs in deep water, where salinity is stable over many 
+      hundreds of meters.
+      
+      The CTD oxygen sensor often requires several seconds in the water before 
+      being wet enough to respond properly; this is manifested as low or high 
+      CTD oxygen values at the start of some casts. Flow-dependence problems 
+      occur when the lowering rate varies, or when the CTD is stopped, as at 
+      the cast bottom or bottle trips, where depletion of oxygen at the sensor 
+      causes lower oxygen readings. CTD downcast oxygen data are usually 
+      smoother than upcast data because of the more constant lowering rate. 
+      Station 202, the only upcast, demonstrates the typical oxygen depletion 
+      effect at each bottle stop. Any delays or stops during the downcasts 
+      that may have similarly affected the CTD oxygen data are documented in 
+      the CTD Processing Notes.
+      
+      There were various winch, wire or rosette problems throughout the 
+      cruise. These resulted in occasional stops, pauses or yoyos during 
+      casts. Only those problems that may have affected the data continuity 
+      have been noted. As mentioned above, these changes in the lowering rate 
+      can affect oxygen in particular.
+
+
+                         A16S (SAVE 5) • Smethie/McCartney • R/V Melville • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+      4. DATA TABLES AND PLOTS
+      4.1. STATION AND CAST DESCRIPTION
+      
+      Latitudes and longitudes were read from the ship's navigation system. 
+      The time (GMT) is the beginning of the CTD up cast or the time the 
+      messenger was sent for the Gerard casts. The bottom depth was read from 
+      the PGR, and corrected according to Carter Tables (Carter, 1980). The 
+      value (in meters) in the column "DAB" (Distance above bottom) was 
+      obtained from the PGR, unless the "Comments" column reports altimeter, 
+      as was the ocean depth. Note that the maximum sampling depth for the 
+      Rosette casts is calculated from the corrected CTD data since the 
+      deepest bottle may not have been closed at the deepest CTD sampling 
+      point. If less than 36 bottles were sampled for the Rosette casts or 9 
+      barrels for the Gerard casts, the number of samples taken are reported 
+      in the comments. The complementary programs are reported in the 
+      "Samples" column.
+      
+
+      4.2. TABULAR DATA, CTD, ROSETTE AND GERARD
+      
+      Station numbers are consecutive from the beginning to end of the cruise, 
+      without interruption. Cast numbers are consecutive at each station, 
+      including aborted casts. Meteorological data were collected by the 
+      ship's officers and were copied from the Melville's Bridge Log. If more 
+      than one CTD cast were done on a station, the deepest cast is reported.
+      
+      The headings in both the CTD data and ROSETTE and GERARD bottle data 
+      have been abbreviated to PRESS, TEMP, and O2 for pressure (decibars), 
+      temperature (degrees Celsius), and oxygen which is reported in both 
+      (milliliters per liter) and (micromoles per kilogram). In the CTD data 
+      listings, specific volume anomaly (centiliters/ton) was abbreviated SVA 
+      and calculated according to Millero et al. (1980) and Fofonoff et al. 
+      (1983), Sound Velocity (meters per second) to SVEL, (Chen and Millero, 
+      1977), Dynamic Height (dynamic meters) to DYN HT, (Sverdrup et al., 
+      1942), Vaisla Frequency (cycles per hour) to VAIS FREQ which uses a 
+      subroutine by Bob Millard modified by Lynne Talley to incorporate 
+      Gaussian weighting after the formulation of Breck Owens and N. P. 
+      Fofonoff. In the bottle data listings, the headings have been 
+      abbreviated to SAW NUM and SALT for Sample Number and Salinity 
+      (Practical Salinity Units), AOU, PO4, NO3, SiO3, and NO2 for apparent 
+      oxygen utilization, phosphate, nitrate, silicate, and nitrite 
+      (micromoles/kilogram), respectively. Density anomalies in sigma-notation 
+      follow the usual practice; e.g. sigma-theta (or sigma-0) is the 
+      potential density in kg/m3 referenced to pressure=O, from which 1000 has 
+      been subtracted. Potential temperature, 0, (degrees Celsius) has been 
+      calculated according to Fofonoff (1977) and Bryden (1973) and depth 
+      (meters) by Saunders (1981) and Mantyla (1982-1983).
+      
+      Throughout the bottle data report alphabetic characters may be found in 
+      the tabular data. These characters have the following meaning:
+      
+      D  A salinity value, normally from a bottle sample, has been taken from 
+         CTD records.
+      G  Data value appears to be high or low as compared with the station 
+         profile, however as compared with CTD trace the sample appears good.
+      H  A pressure or temperature value, normally from CTD records, has been 
+         taken from reversing thermometers.
+      L  The sample bottle appears to have leaked. This usually refers to 
+         Gerard barrels or the piggy-back Niskin and indicates that the samples 
+         may be contaminated.
+      P  The sampler either pre or post-tripped. This usually refers to Gerard 
+         barrels and indicates that the samples may be contaminated.
+      U  A data value is suspect, although no obvious reason has been found.
+      
+      Comments and investigation of these values are reported in the 
+      appropriate leg's Bottle Data Processing Notes section. Surface samples 
+      from the ship's underway pump line were assigned a separate cast number 
+      and reported in the data table under the heading GERARD. This was not 
+      the caw on Leg 4, these samples may have the rosette data cast number. 
+      These surface samples are distinguished by an "H" footnote on the 
+      pressure and reported in the GERARD section.
+      
+
+      4.3. STATION PLOTS
+      
+      The hydrographic station plots provide a visualization of the data that 
+      is not possible from listings. The first few overlay plots represent the 
+      entire leg. Then for each station, the upper plots on the even numbered 
+      pages are CTD data, the lower two plots are bottle data. The odd 
+      numbered pages are single station representation of potential 
+      temperature vs. oxygen, phosphate, nitrate and silicate.
+      
+
+
+      5. ACKNOWLEDGEMENTS
+      
+      This data set was acquired under National Science Foundation Grant OCE 
+      86-13330. The assistance provided by Dr. Neil Anderson is gratefully 
+      acknowledged.
+      
+      
+
+      5.  REFERENCES
+      
+      Armstrong, F. A. J., C. R. Steam, and J. D. H. Strickland, 1967. The 
+         measurement of upwelling and subsequent biological processes by means of 
+         the Technicon AutoAnalyzer and associated equipment, Deep-Sea Research 
+         14,381-389.
+      
+      Atlas, E. L., S. W. Hager, L. 1. Gordon and P. K. Park, 1971. A 
+         Practical Manual for Use of the Technicon AutoAnalyzer in Seawater 
+         Nutrient Analyses; Revised. Technical Report 215, Reference 71-22. 
+         Oregon State University, Department of Oceanography. 49 pp.
+      
+      Bernhardt, H. and A. Wilhelms, 1967. The continuous determination of low 
+         level iron, soluble phosphate and total phosphate with the Auto-
+         Analyzer, Technicon Symposia, Volume 1, 385-389.
+         
+      Brewer, P. G. and G. T. F. Wong, 1974. The determination and 
+         distribution of iodate in South Atlantic waters. Journal of Marine 
+         Research, 32,1:25-36.
+         
+      Bryden, H. L., 1973. New Polynomials for Thermal Expansion, Adiabatic 
+         Temperature Gradient, Deep-Sea Research 20, 401-408.
+      
+      Carpenter, J. H., 1965. The Chesapeake Bay Institute technique for the 
+         Winkler dissolved oxygen method, Limnology and Oceanography 10, 141-143.
+      
+      Carter, D. J. T., 1980 (Third Edition). Echo-Sounding Correction Tables, 
+         Hydrographic Department, Ministry of Defense, Taunton Somerset.
+      
+      Chen, C.-T. and F. J. Millero, 1977. Speed of sound in seawater at high 
+         pressures. Journal Acoustical Society of America, Volume 62, No. 5, 
+         1129-1135.
+         
+      Fofonoff, N. P., 1977. Computation of Potential Temperature of Seawater 
+         for an Arbitrary Reference Pressure. Deep-Sea Research 24, 489-49 1.
+      
+      Fofonoff, N. P. and R. C. Millard, 1983. Algorithms for Computation of 
+         Fundamental Properties of Seawater. UNESCO Report No. 44,15-24.
+      
+      Hager, S. W., E. L. Atlas, L. D. Gordon, A. W. Mantyla, and P K. Park, 
+         1972. A comparison at sea of manual and AutoAnalyzer analyses of 
+         phosphate, nitrate, and silicate. Limnology and Oceanography 17 931-937.
+         
+      Lewis, E. L., 1980. The Practical Salinity Scale 1978 and Its 
+         Antecedents. IEEE Journal of Oceanographic Engineering, OE-5,3-8.
+      
+      Mantyla, A. W., 1982-1983. Private correspondence.
+      
+      Millero, F. J., C.-T. Chen, A. Bradshaw and K. Schleicher, 1980. A New 
+         High Pressure Equation of State for Seawater. Deep-Sea Research 27A, 
+         255-264.
+         
+      Saunders, P. M., 198 1. Practical Conversion of Pressure to Depth. 
+         Journal of Physical Oceanography 11, 573-574.
+      
+      STS/ODF, 1992. South Atlantic Ventilation Experiment (SAVE) Chemical, 
+         Physical, and CTD Data Report, Legs 1, 2 and 3. SIO Reference #92-9.
+      
+      STS/ODF, 1992. HYDROS Chemical, Physical, and CTD Data Report, Leg 4. 
+         SIO Reference #92-12.
+      
+      Sverdrup, H. U., M. W. Johnson, and R. H. Fleming, 1942. The Oceans, 
+         Their Physics, Chemistry and General Biology, Prentice-Hall, Inc., 
+         Englewood Cliff, NJ.
+         UNESCO, 1981. Background papers and supporting data on the Practical 
+         Salinity Scale, 1978. 
+      
+      UNESCO Technical Papers in Marine Science, No. 37, 144 p.
+
+
+                         A16S (SAVE 5) • Smethie/McCartney • R/V Melville • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+      CTD PROCESSING NOTES
+
+      Stn  Cst  Remarks
+      ---  ---  ----------------------------------------------------------------
+      236  1  ODF-CTD #1 with TAMU transmissometer #100-D
+      237  1  CTD #1
+      238  1  CTD #1
+      239  1  CTD #1
+      240  1  CTD #1
+      241  1  CTD #1
+      242  1  CTD #1
+      243  3  CTD #1;  -.002 psu salinity offset 3748-3980 dbars
+      244  1  CTD #1
+      245  1  CTD #1
+      246  1  CTD #1
+      247  1  CTD #1;  winch problem/stop at 4090 dbars down
+      248  1  CTD #1;  only 11 oxygen samples: added bottles from stations 
+                       247/249 for CTD oxygen fitting
+      249  1  CTD #1
+      250  1  CTD #1
+      251  1  CTD #1;  7-minute delay in cast at 2945 dbars down
+      252  2  CTD #1
+      253  1  CTD #1;  7-minute delay in cast at 2750 dbars down
+      254  1  CTD #1;  new end termination
+      255  1  CTD #1;  transmissometer cleaned before cast; multiplexed channels 
+                       (transmissometer altimeter, elapsed-time, trip-confirm) 
+                       not working: replaced 3 chips in CTD after cast;  rosette 
+                       hit bottom; found 2 kinks in wire
+      256  1  CTD #1;  new end termination, pylon leads crossed: 12 bottles 
+                       open, no bottle data 510-2500 dbars; CTD oxygen fitting 
+                       used bottle data 
+                       from this cast only
+      257  1  CTD #1;  pylon leads switched back
+      258  1  CTD #1
+      259  2  CTD #1;  pylon problems, top 10 bottles not closed; CTD oxygen 
+                       fitting used cast 3/Gerard bottle oxygens for top 500 
+                       dbars
+      260  1  CTD #1;  1370-dbar data level interpolated
+      261  1  CTD #1
+      262  1  CTD #1
+      263  1  CTD #1;  new end termination
+      264  1  CTD #1;  1202-dbar data level interpolated
+      265  1  CTD #1
+      266  1  CTD #1
+      267  1  CTD #1
+      268  1  CTD #1;  new end termination following CTD cable repair
+      269  1  CTD #1;  yoyo 3655 dbars back to 3645 dbars on downcast
+      270  1  CTD #1;  -.004 psu salinity dropout 3524-3556 dbars, then residual 
+                       -.001 psu offset 3556-4906 dbars
+      271  2  CTD #1;  8-minute delays in cast at 1180 + 1280 dbars, down
+      272  1  CTD #1;  new end termination following CTD flag block replacement;
+                       15-minute delay in cast at 11-15 dbars      
+      273  1  CTD #1;  CTD wire rubbing on cheeks of flag block
+      274  1  CTD #1
+      275  1  CTD #1
+      276  1  CTD #1
+      277  1  CTD #1
+      278  1  CTD #1
+      279  1  CTD #1;  new CTD oxygen sensor installed/failed: no CTD oxygen 
+                       data this  cast
+      280  1  CTD #1;  original CTD oxygen sensor re-installed
+      281  1  CTD #1
+      282  1  CTD #1;  3-/7-minute delays in cast at 1785/1850 dbars, down
+      283  1  CTD #1
+      284  1  CTD #1
+      285  1  CTD #1
+      286  1  CTD #1
+      287  1  CTD #1
+      288  1  CTD #1
+      289  1  CTD #1
+      290  1  CTD #1
+      291  2  CTD #1
+      292  1  CTD #1
+      293  1  CTD #1
+      294  1  CTD #1
+      295  1  CTD #1
+      296  1  CTD #1;  yoyo 5125 dbars back to 5114 dbars on downcast; rinsed 
+                       CTD connector cables after cast
+      297  1  CTD #1
+      298  2  CTD #1
+      299  1  CTD #1
+      300  1  CTD #1
+      301  1  CTD #1
+      302  2  CTD #1
+      303  1  CTD #1
+      304  1  CTD #1
+      305  1  CTD #1
+      306  1  CTD #1;  36-hour delay for engine repairs en route to station
+      307  1  CTD #1
+      308  1  CTD #1
+
+
+                         A16S (SAVE 5) • Smethie/McCartney • R/V Melville • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+      BOTTLE DATA PROCESSING NOTES
+      
+      Remarks for deleted or missing samples and footnoted data from SAVE Leg 
+      5. Uncertainty of data (footnoted data) results in values that may not 
+      fit the station profile, but are within the accuracy of the measurement. 
+      Investigation of data may include comparison of bottle salinity and 
+      oxygen with CTD data, comparison of Niskin/Gerard salinity, review of 
+      data plots of station profile and adjoining stations, rereading of 
+      charts (i.e., nutrients). CTD data is reported instead of bottle 
+      salinity when comments refer to deleted salinity samples or missing for 
+      various reasons. Oxygen and nutrient values are referred to in ml/l and 
+      µm/l, respectively. On Gerard casts, if there is a comment regarding the 
+      Niskin bottle the corresponding Gerard barrel number follows the Niskin 
+      number (i.e., 153/183 is Niskin 53 and Gerard 83).
+      
+
+
+      STATION  236
+      104      Nutrients: NO2-"Bubbly" Junk in water. Analyst having 
+               trouble with NO2, this sample @41db was affected.
+      108      Nutrients: NO2-"Bubbly" Junk in water. NO2 missing-had no 
+               readable peak @187db.
+      133      delta-S .004 low at 4618db. Calc ok. CTD trace smooth. No 
+               notes. Same value as sample 135. Probably bad draw or run. Delete 
+               hydro salt (34.727).
+               
+      
+      STATION  237
+      1all     Salinity: general comment: Autosal drifting - Reruns 
+               indicate drift not linear and rerun values too ragged to use. 
+               Delete bottle salinities.
+               
+      
+      STATION  240
+      101      Sample Log: Missing salts and nuts. No salts or nutrients 
+               drawn @1db.
+      132      Hydro O2 @3401db .1 high compared to CTDO. Calc ok. No 
+               notes. Delete bottle oxygen (5.66).
+               
+      
+      STATION  241
+      260/287  Sample Log: Bottom leaker. Bad spring. No other water 
+               samples from Niskin#60. Niskin-Gerard S=.014 at 776db. Delete 
+               bottle salinity (34.272).
+               
+      
+      STATION  242
+      124      delta-S .058 low at 2100db. Calc ok. Same value as 123 
+               salt at 1900db. Apparent dupe draw or run. Delete bottle salinity 
+               (34.757).
+      126      delta-S .026 low at 2500db. Calc ok. Same value as 125 
+               salt at 2300db. Apparent dupe draw or run. Delete bottle salinity 
+               (34.847).
+      127      delta-S .017 low at 2700db. Calc ok. Normal CTD gradient. 
+               Apparent bad draw or run. Delete bottle salinity (34.869).
+      134      Salinity: "Dirty bottle" delta-S .019 high at 3949db. 
+               Calc ok. Same value as 133 at 3801db. Apparent dupe draw or run. 
+               Delete bottle salinity (34.813).
+               
+      
+      STATION  243
+      192      Sample Log: Fork jumped wire, rest of cast did not trip. 
+               Untripped barrels sent down again as cast 2.
+      260      Sample Log: Bottom leaker. Niskin-Gerard S=.021 low at 
+               2997db. Delete Niskin bottle salinity (34.865).
+      309      Sample Log: Helium drawn between freon; vent leaks. 
+               Oxygen:" stopper 797 switched with flask 798. Deleted discrete O2 
+               until flask 798 recalibrated with stopper 797. Flasks 798 & 797 
+               broken on station 248 when O2 box 9 fell apart, recalibration 
+               could not be performed, Delete bottle oxygen (5.33) @300db.
+      310      Delete O2 until flask 797 recalibrated with stopper 798. 
+               Deleted discrete O2 until flask 797 recalibrated with stopper 
+               798. Flasks 755 & 756 broken on station 248 when O2 box 9 fell 
+               apart, recalibration could not be performed. Delete bottle oxygen 
+               (5.47) @349db.
+      451/481  Temperature: Thermometer Rack#5 did not flip. No 
+               temperature @524db.
+      454      Sample Log: Didn't close. No salinity @948db. Barium 
+               drawn from Gerard.
+               
+      
+      STATION  244
+      121      Sample Log: O2 flask 756, lid 755. Oxygen: "stoppers 
+               switched again" Deleted discrete O2 until flask 756 recalibrated 
+               with stopper 755. Flasks 755 & 756 broken on station 248 when O2 
+               box 9 fell apart, re calibration could not be performed. Delete 
+               bottle oxygen (4.35) @1394db.
+      122      Sample Log: O2 flask 755, lid 756. Deleted discrete O2 
+               until flask 755 recalibrated with stopper 756. Flasks 755 & 756 
+               broken on station 248 when O2 box 9 fell apart, recalibration 
+               could not be performed. Delete bottle oxygen (4.20) @1498db.
+               
+      
+      STATION  246
+      120      PO4 missing @1298db. Original and rerun peaks both bad.
+      132      Sample Log: Missing drain. No water samples @3400db.
+               
+               
+      STATION  248
+      101      Sample Log: Drain fell apart on opening. Assume means 
+               disk came off spigot. Oxygen flasks broken, no oxygen samples 
+               @2db.
+      102      Oxygen flasks broken, no oxygen samples @25db.
+      103      Oxygen flasks broken, no oxygen samples @54db.
+      104      Sample Log: Spigot opened while bringing aboard. No gases 
+               sampled @77db. Oxygen flasks broken, no oxygen samples @77db.
+      105      Oxygen flasks broken, no oxygen samples @98db.
+      106      Oxygen flasks broken, no oxygen samples @152db.
+      112      Sample Log: Retake helium. Oxygen flasks broken, no 
+               oxygen samples @499db.
+      114      Sample Log: Bottom leaker. delta-S .000 at 697db. Oxygen 
+               flasks broken, no oxygen samples.
+      116      Oxygen flasks broken, no oxygen samples @894db.
+      118      Oxygen flasks broken, no oxygen samples @1096db.
+      120      Oxygen flasks broken, no oxygen samples @1293db.
+      121      Oxygen flasks broken, no oxygen samples @1293db.
+      122      Oxygen flasks broken, no oxygen samples @1496db.
+      123      Oxygen flasks broken, no oxygen samples @1596db.
+      125      Oxygen flasks broken, no oxygen samples @1897db.
+      126      Oxygen flasks broken, no oxygen samples @2099db.
+      127      Oxygen flasks broken, no oxygen samples @2300db.
+      128      Oxygen flasks broken, no oxygen samples @2498db.
+      129      Oxygen flasks broken, no oxygen samples @270ldb.
+      131      Oxygen flasks broken, no oxygen samples @3099db.
+      132      Oxygen flasks broken, no oxygen samples @3299db.
+      133      Oxygen flasks broken, no oxygen samples @3498db.
+      134      Oxygen flasks broken, no oxygen samples @3702db.
+      135      Oxygen flasks broken, no oxygen samples @3899db.
+      136      Sample Log: Retake helium. Oxygen flasks broken, no 
+               oxygen samples @3989db.
+               
+ 
+      STATION  249
+      101-136  Delete all bottle salinities; problem with 
+               temperature in salinity lab.
+               
+      
+      STATION  250
+      104      Sample Log: Drain broken, probably broken on pinger. No 
+               water samples @100db.
+               
+      
+      STATION  251
+      111      delta-S .183 high at 378db. Calc ok. Normal gradient. No 
+               notes. Salt value .007 lower than 110 salt value which could 
+               indicate possible dupe draw. Other water samples ok. Delete 
+               bottle salinity (34.973).
+      171      Sample Log: Bottom endcap open. No water samples 49db.
+               
+      
+      STATION  252
+      160      Sample Log: Empty. No salt sample for Gerard 89 check 
+               @4352db. Gerard 89 salt agrees with rosette salts and rest of 
+               Cast 1 salts.
+      222      delta-S .051 at 1651db. Calc ok. Normal gradient, no 
+               notes. No apparent reason for large difference here. Other water 
+               samples ok (02 min). Delete bottle salinity (34.538).
+      3all     Niskin salinities were not drawn. No explanation given, 
+               must just have been sampling oversight.
+               
+      
+      STATION  253
+      116      Nutrients high @897db, same values as 117, assume dupe 
+               draw. Delete nutrients (PO4=2.08, NO2=0.00, NO3=31.4, S103=32.1).
+      130      Discrete O2 appears .1 low at 3196db. Agrees with CTDO, 
+               conductivity and temperature feature this level. Footnote "G" 
+               indicating sample appears low, but verifies with CTD trace.
+      136      delta-S .162 low at 4322db. Calc ok. Salt bottle #PP47 on 
+               Sample Log & #4277 on Salinity Data Sheet. Assume mixup with 
+               sample bottles. Delete bottle salinity (34.843).
+      256      Sample Log: Hung up, no sample. Gerard 86 salt @802db 
+               agrees with other salts this level so Gerard ok.
+      260      Niskin-Gerard S=.023 at 826db. Calc ok. Gerard 89 salt 
+               agrees with other salts this level so assume Niskin leaked and 
+               Gerard sample ok. No other samples from Niskin 60. Delete Niskin 
+               bottle salinity (34.247).
+               
+      
+      STATION  254
+      101      Nutrients: Evidently too much junk in water to resolve 
+               peaks on NO2. No NO2 @6db.
+      136      Discrete O2 about .1 high at 4368db. CTDO increasing at 
+               bottom but not this much. Only 2 other stations have unexplained 
+               high O2 for Niskin #36. Possibly drawer forgot to flush pickling 
+               syringes. Delete bottle oxygen (5.16).
+               
+      
+      STATION  256
+      108      delta-S .012 low at 3897db. Calc ok. Normal gradient. 
+               Same value as sample 109. Assume dupe draw. Delete bottle 
+               salinity  (34.681).
+      124      No O2 drawn @10db, Keeling CO2 sample.
+               
+      
+      STATION  259
+      181/152  Sample Log: Too shallow. Pre-tripped at 1631db vs. 
+               3800db intended depth. Niskin-Gerard S=.008 due poor flush Cast 
+               not repeated due bad weather. Samples drawn & analyzed. Suggested 
+               footnote: "Pretrip, depth uncertain by +/- 50 meters." "P"
+      182/153  Sample Log: Too shallow, leaking but vent is tight. 
+               Pretripped at 2127db vs. 4200db intended depth. Niskin-Gerard 
+               S=.024 due poor flush and probable Gerard leak. Unable to open 
+               Gerard 82 lid after this cast. Cast not repeated due bad weather. 
+               Samples drawn & analyzed. Suggested footnote: "Pretrip, depth 
+               uncertain by +/- 100 meters." "P"
+      183/154  Sample Log: Too shallow. Pretripped at 2489db vs. 
+               intended depth of 4440db. Niskin-Gerard S=.009 due poor flush. 
+               Cast not repeated due bad weather. Samples drawn & analyzed 
+               except no Argon this station. Suggested footnote: "Pretrip, depth 
+               uncertain by +/- 50 meters." "P"
+      185      Sample Log: Did not trip and no messenger on top. It did 
+               drop its messenger. No water samples. Cast not repeated due bad 
+               weather.
+      186      Sample Log: Tripped at the surface. No water samples 
+               drawn. Cast not repeated due bad weather.
+      187      Tripped at the surface per DSRTs. No water samples 
+               drawn. Cast not repeated due bad weather.
+      188      Tripped at the surface per DSRTs. No water samples 
+               drawn. Cast not repeated due bad weather.
+      189      Tripped at the surface per DSRTs. No water samples 
+               drawn. Cast not repeated due bad weather.
+      151      Delete low PO4 (2.09 kg, 2.14 1) @3371db.
+      201      Sample Log: Did not trip. Bad Pylon
+      202      Sample Log: Did not trip. Bad Pylon
+      203      Sample Log: Did not trip. Bad Pylon
+      204      Sample Log: Did not trip. Bad Pylon
+      205      Sample Log: Did not trip. Bad Pylon
+      206      Sample Log: Did not trip. Bad Pylon. No water samples 
+               @178db.
+      207      Sample Log: Did not trip. Bad Pylon. No water samples 
+               @248db.
+      208      Sample Log: Did not trip. Bad Pylon. No water samples 
+               @299db.
+      209      Sample Log: Did not trip. Bad Pylon. No water samples 
+               @371db.
+      210      Sample Log: Did not trip. Bad Pylon. No water samples 
+               @427db.
+      211      No salt drawn @522db per sample log. Other water samples 
+               ok. No notes. Forgotten? All three (silicate, phosphate and 
+               nitrate) do not fit at all with the vertical section and are 
+               pretty clearly erroneous. - L. Talley 920409 Bottle appears to 
+               have tripped at ~300db, Delete all water samples (O2=5.91, 
+               PO4=1.77, NO2=0.01, NO3=25.9, SiO3=13.3).
+      212      No salt drawn @623db per sample log. Other water samples 
+               ok. No notes. Forgotten?
+      215      delta-S .075 low @988db. Calc ok. Same value as 214. 
+               Assume dupe draw. Delete bottle salinity (34.266).
+      216      delta-S .016 high at 1096db. All water samples appear to 
+               be from about 100db. No notes. Assume bad trip or bad leak. 
+               Delete all water samples (S=34.441, O2=5.16, PO4=1.00, NO2=0.08, 
+               NO3=12.3, SiO3=12.8).
+      222      L. Talley indicated PO4 high. Investigation of the data 
+               shows good comparison with CTDO2 even though bottle oxygen 
+               appears low. Silicate appears high, but only fits lower in the 
+               water column. NO3 appears high, also fits lower in the water 
+               column. Salinity agrees with CTD .003 so both salinity and oxygen 
+               show that something is different here, and appears to be real. 
+               ODF has suggested that the samples be footnoted either "U" for 
+               uncertain or "G" for good and verified by other data parameters. 
+               Foot note PO4 "U" for uncertain.
+      228      Salinity: "loose top" delta-S .004 high at 3112db. Delete 
+               bottle salinity (34.741).
+      234      Sample Log: Lanyard bung up. No water samples @4298db.
+      356      Niskin-Gerard S=.312 at 421db. Calc ok. No notes. 356 
+               water samples appear to be surface water. Gerard 86 salt agrees 
+               with CTD salt this level so Gerard sample good. Delete all Niskin 
+               water samples (S=34.526, O2=5.91, PO4=0.78, NO2=0.09, NO3=9.0, 
+               SiO3=2.9).
+      360      Sample Log: Leaked. Details not noted. Salinity: "jumpy" 
+               Niskin-Gerard S=-.007 at 1325db. Calc ok. Normal gradient small 
+               leak in Niskin 60 likely and Gerard 89 looks ok. Freon & barium. 
+               also drawn from Niskin. Suggested footnote: "Sample Log note and 
+               .007 difference between Niskin and Gerard salts indicate slight 
+               leak in Niskin sample 360." "L"
+               
+      
+      STATION  260
+      102      No discrete O2 @7db, Keeling CO2 samples.
+      171      Sample Log: Did not fire. No further explanation. No 
+               notes Conops or Deck Log. No water samples @79db.
+      116      Sample Log: Lanyard hung on frame during recovery, 
+               lifted top stopper. Discrete O2 @1059db about .12 high compared 
+               to CTDO. No freon or helium. drawn this sample. Salt & nutrients 
+               ok. Delete bottle oxygen (4.62).
+      128      PO4 @3200db low. Footnote PO4 "U" uncertain.
+      129      PO4 @3402db low. Footnote PO4 "U" uncertain.
+      130      PO4 .05 low at 3599db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+      131      PO4 .04 low at 3799db. Calc ok, peaks fair. Air in PO4 
+               fine before 130 and after 136. Footnote PO4 "U" uncertain.
+      132      PO4 .04 low at 3999db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+      133      PO4 .03 low at 4198db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+      134      PO4 .03 low at 4349db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+      135      PO4 .O2 low at 4499db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+      136      PO4 .04 low at 4550db. Calc ok, peaks fair. Air in PO4 
+               line before 130 and after 136. Footnote PO4 "U" uncertain.
+               
+      
+      STATION  263
+      106      Salinity: "Lost" No reason given. No hydro salt 249db.
+               
+      
+      STATION  265
+      131      delta-S .006 high at 4402db. Calc ok. Smooth CTD 
+               gradient. Probable bad draw or run. Delete bottle salinity 
+               (34.680).
+               
+      
+      STATION  266
+      111      Salinity: "may leak a little" delta-S .004 high at 601db. 
+               Same salt bottle used subsequent station with no problem. Delete 
+               bottle salinity (34.224).
+      171      Sample Log: Lanyard hung, no sample. No water samples 
+               @98db.
+               
+      
+      STATION  267
+      101      Oxygen: "broken flask, no sample" No oxygen sample @4db.
+      125      O2 .04 high at 3199db compared to CTDO. Calc ok. Possibly 
+               drawn from Niskin 26?. Delete bottle oxygen (4.84).
+      127      Sample Log: Vent leaks. delta-S .001 low at 3600db. Other 
+               water samples also ok. NO3 @3600db 1.0 higher than adjacent 
+               stations. Rerun (between 130 & 131) was used which was definitely 
+               higher than original, poorer, peak. All subsequent NO3 values 
+               also higher than adjacent stations. Footnote high NO3 as 
+               uncertain "U".
+      128      NO3 @3802db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      129      NO3 @4004db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      130      NO3 @4200db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      131      NO3 @4399db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      132      NO3 @4596db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      133      NO3 @4802db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      134      NO3 @5000db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      135      NO3 @5198db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+      136      NO3 @5253db about 1.0 higher than adjacent stations. Peak 
+               not perfect but definitely high. Footnote high NO3 as uncertain 
+               "U".
+               
+      
+      STATION  268
+      117      Sample Log: Valve pushed in. delta-S .071 low at 1498db. 
+               Calc ok. Other water samples also indicate leak. Delete all water 
+               samples (S=34.684, O2=4.31, PO4=2.22, NO2=0.00, NO3=32.8, 
+               SiO3=81.1).
+      127      NO3 high @3401 db, footnote "U".
+      128      NO3 high @3608db, footnote "U".
+      129      NO3 high @3802db, footnote "U".
+      130      NO3 high @4001db, footnote "U".
+      136      Oxygen: "Forgot to write down value, lost" No oxygen data 
+               @5146db.
+               
+      
+      STATION  270
+      136      Sample Log: Tritium drawn after nuts. O2 .4 high at 
+               5638db compared to CTDO and adjacent stations. Calc ok. Assume 
+               draw or titration. Delete bottle oxygen (6.01).
+               
+      
+      STATION  271
+      1all     No temperatures, forgot to read DSRTs before next Gerard 
+               cast. Calculating barrel depths based on corrected wire length, 
+               pinger distance from bottom, and corrected bottom depth gives 
+               good agreement between Gerard salts and rosette salts.
+      211      No nutrients @605db per nutrient data sheet. Ok per 
+               sample log. Assume not drawn.
+      217      O2 .4 high compared to CTDO at 1658db. Calc ok. Delete 
+               bottle oxygen (4.83).
+      223      O2 .04 high compared to CTDO at 2796db. Calc ok. Delete 
+               bottle oxygen (4.88).
+      228      delta-S .005 high at 3799db. Calc ok. Smooth CTD 
+               gradient. Note on salt data sheet indicates possible salt crystal 
+               contamination. Delete bottle salinity (34.677).
+      3all     Sample Log: Cast aborted, double pinging after two 
+               barrels. No samples.
+               451/487  DSRTs indicate posttrip; TP 1505db vs. intended depth of 
+               2900m. Delete Niskin and Gerard level. Post trip. See 451.
+      452/488  Sample Log: Rigged wrong, didn't close. No Niskin salts 
+               or temp. DSRTs on barrels above & below indicate posttrip. Delete 
+               Niskin and Gerard level. Posttrip. See 452.
+      453/489  DSRTs indicate posttrip; TP 1746db vs. intended depth of 
+               3800m. Delete Niskin and Gerard level. Post trip. See 453.
+      456      Sample Log: Rigged wrong, didn't close. No Salt for 
+               Gerard check @2366db. See 486. Gerard 86 salt agrees with rosette 
+               salt this level. Gerard sample ok.
+      459/485  Sample Log: Rigged wrong, did not close. No salt for 
+               Gerard check @2O27db. See 485. Gerard 85 salt is .005 higher than 
+               rosette salt this level. Gerard sample probably ok.
+      553/589  DSRTs indicate pre or posttrip; TP 1337db vs. 3600m 
+               intended depth. Niskin-Gerard S=.014 indicating poor flush. 
+               Delete Niskin and Gerard level. Post?-trip. See 553.
+               
+      
+      STATION  272
+      113      Salinity: "top loose, leaks" delta-S .005 high at 801db. 
+               Normal CTD gradient. Delete bottle salinity (34.663).
+      134      delta-S .005 high at 4753db. Calc ok. Same value as 132. 
+               Possible dupe draw. Delete bottle salinity (34.659).
+      171      Sample Log: Smashed drain. No water samples @148db.
+               
+      
+      STATION  273
+      113      Sample Log: No sample, end caps lost. No water samples 
+               @801db.
+      131      Sample Log: 6 pCO2 samples, nothing else. No water 
+               samples @4000db.
+               
+      
+      STATION  274
+      132      NO3 1.5 high @4200db. Poor peak but high. Rerun after 
+               standards had worse peak. Delete nitrate (36.2).
+               
+      
+      STATION  275
+      122      Sample Log: Bottom end cap hung up. No sample @1803db.
+      135      O2 .12 high @3938db. Calc ok. CTDO shows smooth gradient. 
+               Delete bottle oxygen (5.40).
+               
+      
+      STATION  279
+      120      Keeling & LDGO CO2 only. No hydro S, O2 or nutrients 
+               @4db.
+               
+      
+      STATION  280
+      125      PCO2 only. No other water samples @903db.
+               
+      
+      STATION  281
+      101      No Salt, O2 or nutrients @4db, Keeling CO2.
+      106      No Salt, O2 or nutrients @200db, Keeling CO2.
+      108      No Salt, O2 or nutrients @247db, Keeling CO2.
+      111      No Salt, O2 or nutrients @347db, Keeling CO2.
+      114      No Salt, O2 or nutrients @499db, Keeling CO2.
+      116      No Salt, O2 or nutrients @597db, Keeling CO2.
+      118      No Salt, O2 or nutrients @748db, Keeling CO2.
+      120      No Salt, O2 or nutrients @998db, Keeling CO2.
+      123      No Salt, O2 or nutrients @1497db, Keeling CO2.
+      126      No Salt, O2 or nutrients @1999db, Keeling CO2.
+      129      No Salt, O2 or nutrients @2484db, Keeling CO2.
+      132      No Salt, O2 or nutrients @3010db, Keeling CO2.
+      135      No Salt, O2 or nutrients @3628db, Keeling CO2.
+               
+      
+      STATION  281 (continued)
+      136      S103 6. too high. Delete S103 (140.6). NO2.03 high, not 
+               sure what caused this. Footnote NO2 "U" for uncertain.
+      171      No Salt, O2 or nutrients @126db, Keeling CO2.
+               
+      
+      STATION  282
+      115      All water samples appear to be from about 2000db vs. 5 db 
+               when tripped. Top lanyard found broken on recovery per Deck Log. 
+               Delete all water samples (S=34.709, O2=4.67, PO4=2.18, NO2=0.00, 
+               NO3=33.9, SiO3=119.1).
+      129      delta-S .004 high at 14OOdb. Calc ok. CTD trace smooth 
+               and indicates sal max closer to 1500db. No notes. No apparent 
+               problems with other water samples. Delete bottle salinity 
+               (34.720).
+               
+      
+      STATION  283
+      135      Sample Log: Lid not closed. 5m above 136. Suspended 
+               particles checked on sample log. Deck Log note: "top of Niskin 35 
+               did not close completely slightly askew." No other samples drawn 
+               @1714db so sample integrity unknown.
+               
+      
+      STATION  284
+      131      Discrete O2 .2 high at 1297db. Calc ok. CTDO down & up 
+               traces show min not max this level. O2 values similar to 132 
+               value so possibly drawn from Niskin32 in error. Delete bottle 
+               oxygen 
+               (4.39).
+      287      Sample Log: Went down without washer on valve arm. Assume 
+               means no o-ring on valve cap. Niskin Gerard S=.003 at 889db. 
+               Probable slight leak. Suggested footnote: "No o-ring on valve 
+               cap. Probable slight leak." "L"
+               
+      
+      STATION  286
+      110      Sample Log: Air leak. delta-S .000 at 551db. Other water 
+               samples also ok.
+      122      Discrete O2 .1 high. Calc ok. No notes. CTDO shows 
+               feature this level both down & up but only about 1/2 as high. 
+               Nutrients & salt also have feature but salt is proportional to 
+               CTD down & up traces. Suggest: FOOTNOTE "U"
+               
+      
+      STATION  287
+      112      Sample Log: Air leak, sample leaked out on deck. No water 
+               samples drawn @801db.
+      113      delta-S .014 high at 948db. Calc ok. High gradient. 
+               Nutrients ok (NO3 & PO4 max). O2 problem apparently unrelated is 
+               described below. O2 value appears about .07 high at 948db 
+               compared to CTDO down & up traces. Oxygen analyst indicated 
+               sample was over-titrated, but sample does not give good results. 
+               Delete bottle oxygen (4.00).
+      259      Sample Log: No salts drawn. Sampling error @5203db, they 
+               should have been. Freon & barium were drawn. Gerard (#289) salt 
+               agrees well with CTD salt trace.
+      260      Sample Log: No salts drawn. Sampling error @5380db, they 
+               should have been. Freon & barium were drawn. Gerard (290) salt 
+               agrees well with CTD salt trace.
+      353      Salinity: "top loose" Niskin-Gerard S=.009 at 208db. 
+               Gerard salt looks ok. Delete Niskin salinity (34.147).
+               
+      
+      STATION  291
+      160      Niskin-Gerard S=.005 at 5449db. Calc ok. No notes. Gerard 
+               (190) salt agrees with CTD and other Argon cast salts this level. 
+               No other samples taken Niskin 160. Delete Niskin salinity 
+               (34.671).
+               
+      
+      STATION  292
+      130      SIL 1.6 higher than 131 SIL tripped at same level 
+               (4198db). 131 value in better agreement with adjacent values and 
+               130 has poor peak. Delete silicate value (129.3).
+               
+               
+      STATION  293
+      116      Sample Log: Hung up. No water samples @1502db.
+               
+      
+      STATION  294
+      121      delta-S .018 low at 2198db. Calc ok. Same value as 120 
+               salt so possible dupe draw. CTDs noisy but not this much. O2 & 
+               PO4 look ok. NO3 1.0 high and SIL 2.0 high. NO3 peak poor, SIL 
+               peak ok. Calc ok. Delete bottle salinity (34.773).
+      136      Discrete O2 @5242db .33 ml/L high compared to adjacent 
+               samples and CTDO traces. Calc ok. Assume bad draw or titration. 
+               Deleted bottle oxygen (5.51).
+      257/288  Thermometer: Lanyard hang-up, therms did not reverse. No 
+               temperature @4716db. Sample Log: Lid not completely closed. 
+               Niskin-Gerard S=-.001 at 4699db. Gerard sample ok.
+      259/289  Sample Log: Air leak. Salinity: "Perhaps drawn quite 
+               late" Niskin-Gerard S=-.002 but both DSRTs and salinities 
+               indicate Niskin and Gerard tripped at about 2550db instead of 
+               5080db as intended. Probably post-tripped. See 290. Suggested 
+               footnote: "Post-trip, poor flush.".
+      260/290  Sample Log: Air leak. Salinity: "Perhaps drawn quite 
+               late" Niskin-Gerard S=.008 at 5241db. Gerard salt agrees with 
+               rosette & CTD salts. Assume Niskin leaked. Freon & barium also 
+               drawn from Niskin. Delete Niskin salinity (34.673). Gerard 
+               samples looks good.
+      360/392  Niskin salt low at 1476db indicating leak. No notes but 
+               same Niskin leaked last cast. Barium also drawn from Niskin #60. 
+               Delete bottle salinity (34.596). Sample Log: Air leak. Niskin-
+               Gerard S=-.013 at 1476db. Gerard salt agrees with rosette & CTD 
+               salts. Assume Gerard ok.
+               
+      
+      STATION  295
+      112      Sample Log: Hung up/no sample. No water samples @849db.
+               
+               
+      STATION  296
+      133      delta-S .004 low at 4797db. Calc ok. Normal CTD gradient. 
+               Same value as 134, possible dupe draw. Delete bottle salinity 
+               (34.667).
+               
+      
+      STATION  297
+      130      delta-S .006 high at 3898db. Calc ok. Normal CTD 
+               gradient. Possible salt crystal from cap got into sample. 
+               Nutrients ok. Delete bottle salinity (34.708).
+               
+      
+      STATION  298
+      154/185  Sample Log: Didn't trip. No water @3022db. Gerard (185) 
+               salt agrees with CTD salt.
+      157/188  Sample Log: Didn't trip. No water @4515db. Gerard (188) 
+               salt agrees with CTD salt.
+               
+      
+      STATION  300
+      131      delta-S .004 high at 3899db. Calc ok. Normal gradient. No 
+               notes. Other water samples ok. Deleted bottle salinity (34.700).
+               
+      
+      STATION  302
+      210      delta-S .051 high at 473db. Calc ok. Normal gradient. No 
+               notes or explanation Other water samples ok (02 min). Delete 
+               bottle salinity (34.880).
+      235      PO4.42 high at 4550db. Calc & peak ok. Assume 
+               contamination problem. Delete phosphate (2.78).
+      236      delta-S .002 to .003 high at 4643db. Steady increase in 
+               each Autosal run indicating possible salt crystal contamination 
+               from bottle cap. Delete bottle salinity (34.671).
+               
+
+      STATION  303
+      113      Sample Log: Drained for salts. No salinity sample @651db.
+      115      Sample Log: Empty for salts. No hydro S @803db.
+      117      Sample Log: Low for salts. delta-S .002 high at 1002db. 
+               Hydro O2 low at 1003db per CTDO calibration. Calc ok, no notes. 
+               This is Keeling CO2 bottle so bottle half empty when O2 drawn. O2 
+               .22 lower than Niskin 16 tripped at same level. Delete bottle 
+               oxygen (5.19).
+      124      Sample Log: Empty for salts, barely sampled nuts. No 
+               bottle salinity @2110db.
+      131      Sample Log: Freon drawn after TCO2. Does not effect 
+               samples @355ldb. delta-S .008 high at 3550db. Calc ok. Small 
+               spike in raw CTD S trace this level but block averaged data has 
+               smooth normal gradient. No notes. Delete bottle salinity 
+               (34.785).
+               
+      
+      STATION  304
+      134      delta-S .080 high at 3696db. Calc ok. All water samples 
+               appear to be from about 3475db. Delete all water samples 
+               (S=34.779, O2=5.19, PO4=2.00, NO2=0.00, NO3=28.8, SiO3=86.1)
+               
+      
+      STATION  305
+      113      Oxygen @10OOdb is low. Appears to have drawn from bottle 
+               14. Delete oxygen (5.33).
+      171      Sample Log: Sample cock sheared off during recovery, 
+               sample lost. No water samples @129db.
+               
+      
+      STATION  306
+      119      Oxygen data sheet "bubble - large variety" O2 .2 high 
+               @1954db. Same value as 120. Smooth CTDO trace. Delete bottle 
+               oxygen (4.75).
+      453      Salinity data sheet: "Junk in water" Niskin-Gerard S=.006 
+               at 5049db. Calc ok. Niskin is high and Gerard (88) agrees with 
+               CTD, rosette and other samples this Argon cast. No other sample 
+               drawn this Niskin. Delete Niskin salinity (34.676).
+      457      Niskin-Gerard S=.011 at 4862db. Calc ok. Niskin is high 
+               and Gerard (83) agrees with CTD, rosette and other samples this 
+               cast. Freon and Barium also drawn this Niskin. Niskin salt is 
+               similar to 454 salt which was the adjacent bottle in the rack. 
+               Possibly 457 was misdrawn and the other samples are ok. No notes. 
+               Delete Niskin salinity (34.681).
+      459      Sample Log: Empty - didn't trip. No Niskin salt or hydro 
+               T & P at 5025db. Gerard salt (485) agrees with CTD, rosette and 
+               other samples this Argon cast.
+               
+      
+      STATION  307
+      128      Sample Log: Thermometer lanyard caught in bottle top. 
+               Sample discarded. Nutrients & salinity run; both indicate severe 
+               leak@3301db. Delete all water samples (S=34.893, O2=1.35, 
+               PO4=1.35, NO2=0.01, NO3=19.3, SiO3=37.4).
+      186      Sample Log: Not latched, water squirting out of lid on 
+               recovery. Niskin-Gerard S=-.007. Niskin sample (56) agrees with 
+               other samples this level and Gerard salt is high. After cast 
+               found wrong size air vent plug had been used. (New {WHOI} barrels 
+               have slightly different diameter hole in lid for air vent plug 
+               than the old (yellow- hooded) barrels.) Sample Log indicates 
+               Argon and radium 228 may have been taken from Gerard. Leave bad 
+               Gerard salt in report to indicate problem, footnote "U".
+               
+      
+      STATION  308
+      106      delta-S .258 low at 199db. Calc ok. Same value at 107 
+               salt. Other water samples ok. Assume 106 salt drawn from Niskin 
+               7. Delete bottle salinity (34.626).
+      
+
+
+                              A16S (SAVE 5) • Radiocarbon • Östlund/Grall • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+
+                                UNIVERSITY OF MIAMI
+                ROSENSTIEL SCHOOL OF MARINE AND ATMOSPHERIC SCIENCE
+                                  MIAMI, FL 33149
+     
+                               S.A.V.E. RADIOCARBON
+                      SOUTH ATLANTIC VENTILATION EXPERIMENT
+                                    1987-1989
+     
+                                TRITIUM LABORATORY
+                                 DATA REPORT # 18
+                                        by
+                        H. Göte Östlund and Charlene Grall
+     
+     
+     This report constitutes the Final Report for the following grant:
+     
+     NSF OCE-86-13329                                          September 1992
+     
+     
+     TRITIUM LABORATORY DATA REPORTS
+     
+     #1   TRITIUM IN THE TROPOSPHERE AND SURFACE WATER OF NORTH ATLANTIC OCEAN 
+          1964-70, H.G. Östlund, R.D. Stearns, and R. Brescher. July 1971.
+     
+     #11  ANTARCTIC TRITIUM 1977-1979, A.S. Mason and H.G. Östlund. November 
+          1981.
+     
+     #12  GEOSECS TRITIUM, Atlantic Ocean 1972-73, Pacific Ocean 1973-74, 
+          Indian Ocean 1977-78, Station 347 Revisits, H.G. Östlund and R. 
+          Brescher.  December 1982.
+     
+     #13  NAGS TRITIUM, North Atlantic Gyre Studies and Associated Projects, 
+          H.G. Östlund. June 1984.
+     
+     #14  ATMOSPHERIC TRITIUM 1968-1984, H.G. Östlund and A.S. Mason. April 
+          1985.
+     
+     #15  EQUATORIAL PACIFIC TRITIUM, H.G. Östlund, C. Grall, and R.E. 
+          Brescher. April 1986.
+     
+     #16  TTO NORTH AND TROPICAL ATLANTIC TRITIUM AND RADIOCARBON, H.G. 
+          Östlund and C. Grall. February 1987.
+     
+     #17  INDIGO 1985-1987, INDIAN OCEAN RADIOCARBON. H.G. Östlund and C. 
+          Grall. April 1988.
+     
+     #18  S.A.V.E. RADIOCARBON, South Atlantic Ventilation Experiment, 1987-
+          1989.  H.G. Östlund and C. Grall. November 1992. THIS REPORT.
+     
+     NOTE:  Data Report #s 2,3,4,5,6,7,8,9,10 have been superseded by #s 
+            12,13 and 14. The measurement results of #12 are also available in 
+            Vol. 7 of the GEOSECS ATLAS.
+     
+     
+     PREFACE
+     
+     This report presents all the radiocarbon measurements produced from the 
+     six S.A.V.E Cruises 1987-1989. The following informal Data Releases 
+     include all measurement results previously reported. Additional quality 
+     control has slightly changed some earlier data which are hereby 
+     superseded.
+     
+       #89-05 S.A.V.E. Radiocarbon Results, Legs 1 and 2. 
+       #89-38 S.A.V.E. Radiocarbon Results, Legs 2 and 3. 
+       #90-32 S.A.V.E. Radiocarbon Results, Legs 4,5 and HYDROS Leg 4. 
+       #91-56 S.A.V.E. Radiocarbon Results, Legs 3,4,5 and HYDROS Leg 4.
+     
+     The data in this report are hereby in the public domain to, be used by 
+     anyone. Conventional reference is appreciated.
+     
+     Copies of this Data Report, or any other Tritium Laboratory Data Report, 
+     may be obtained by addressing the Tritium Laboratory, RSMAS, University 
+     of Miami, 4600 Rickenbacker Causeway, Miami, Florida 33149, U.S.A.
+     
+     A 5-1/4" floppy disk, containing all radiocarbon data in this report in 
+     addition to some hydrographic data, in ASCII format, is available upon 
+     request. We hope that this data set will be used extensively in many 
+     modeling studies in the years to come.
+     
+     
+     ACKNOWLEDGMENTS
+     
+     The measurement of all the radiocarbon samples and the production of 
+     this report were carried out under National Science Foundation Grant 
+     NSF-OCE-86-13329. We are very grateful for their long term support. We 
+     also thank the technical staff of the Ocean Data Facility at Scripps 
+     Institution of Oceanography for the radiocarbon sample collection and 
+     shipboard extraction. We sincerely appreciate the efforts of the chief 
+     scientist to include as many sample collections as they did especially 
+     after the untimely loss of the Gerard barrels on the first cruise of 
+     this project. M. Stuiver and T. Saling at Quaternary Research Office, 
+     University of Washington, made the numerous and excellent 13C 
+     measurements which is hereby gratefully acknowledged.
+     
+     
+     TABLE OF CONTENTS
+     
+       TRITIUM LABORATORY DATA REPORTS 
+       PREFACE 
+       ACKNOWLEDGEMENTS 
+       (S.A.V.E.) RADIOCARBON SOUTH ATLANTIC VENTILATION EXPERIMENT, 1987-1989.
+
+               I  INTRODUCTION 
+              II  CRUISE DESCRIPTIONS  
+             III  TECHNICAL PROCEDURES 
+              IV  NOTES ON SCALES  
+               V  ACCURACY AND ERRORS 
+              VI  HYDROGRAPHIC DATA . . 
+             VII  COMMENTS TO FIGURES AND TABLES 
+            VIII  REFERENCES 
+
+       APPENDIX 
+       SECTIONS (SAVE 5 - A16S only)
+
+       
+       
+       
+     S.A.V.E. RADIOCARBON SOUTH ATLANTIC VENTILATION EXPERIMENT, 1987-1989
+     
+     
+     I.  INTRODUCTION
+     
+     The project called Transient Tracers in the Ocean, TTO was initiated it 
+     1980 with the intent to study the Atlantic Ocean. The North Atlantic 
+     Study (NAS) and Tropical Atlantic Study (TAS) scientific cruises 
+     continued only as far south as 10°S. The South Atlantic Ventilation 
+     Experiment (SAVE) expeditions traversed as far south as 53°S and east to 
+     Africa. Through the use of various tracers, the program investigated 
+     circulation, mixing and ventilation of the South Atlantic Ocean. 
+     Radiocarbon (14C) is considered an important tracer to study because it 
+     helps provide information on rates of internal oceanic mixing as well as 
+     the rate of gas exchange between ocean surface and atmosphere. The 
+     coverage of 14C measurements from SAVE is much denser than that of its 
+     predecessor, GEOSECS, and can provide a much better base upon which 
+     future C02 studies can build. It also provides a view at the evolution 
+     of bomb 14C distribution over the last decade since GEOSECS, as several 
+     GEOSECS stations were reoccupied during SAVE.
+     
+     
+     
+     II.  CRUISE DESCRIPTIONS
+     
+     The SAVE expedition consisted of two cruises subdivided into six legs.
+     
+     A.  YEAR 1
+     
+     The first leg aboard the R/V Knorr, began 23 November 1987 from Recife, 
+     Brazil. The Knorr crossed the Atlantic Ocean on a northeasterly course 
+     and arrived into Abidjan, Ivory Coast on 13 December 1987. A total of 
+     121 radiocarbon samples was collected from ten large volume stations. 
+     During a deep Gerard cast on station 32, all barrels were lost when the 
+     winch cable snapped. Two spare Gerard barrels were used during the 
+     remainder of Leg 1, which limited sample collection to the upper 1000m 
+     of depth.
+     
+     The Knorr departed Abidjan on 18 December 1987, heading southwest and 
+     arrived in Rio de Janeiro, Brazil on 23 January 1988. During Leg 2, 163 
+     14C samples were collected from 21 large volume stations. With the 
+     exceptions of stations 95 and 99, where deep samples were collected from 
+     the core of the Antarctic Bottom Water and North Atlantic Deep Water, 
+     maximum sample depth was 1000m.
+     
+     On Leg 3, once again armed with full complement of Gerard barrels, the 
+     expedition set out on 28 January 1988, traveled southeast to about O°W 
+     then heading north back to Abidjan. Before the cruise ended on 7 March 
+     1988, 349 radiocarbon samples were taken at 30 large volume stations.
+     
+     
+     B.  YEAR 2
+     
+     The second year of SAVE began with departure of the R/V Melville from 
+     Punta Arenas, Chile on 7 December 1988. She crossed the South Atlantic 
+     Ocean along 47°S to 20°W, headed northeast to 30°S before steaming due 
+     east to Capetown, South Africa, arriving on 15 January 1989. During Leg 
+     4, 299 radiocarbon samples were collected from 27 large volume stations.
+     
+     Leg 5 cruise departed Capetown on 23 January 1989. The cruise track 
+     consisted of two meridional sections: the first traversing from 24°W 
+     south to South Georgia Island; the second section going north along 
+     41°W. A small northwest portion of the track heading toward Montevideo, 
+     Uruguay ended on March 8, 1989. A total of 173 14C samples was taken on 
+     20 stations.
+     
+     The remainder of the cruise was a meridional section called HYDROS, Leg 
+     4, which ran north from SAVE station 237 to the equator along 25°W. 
+     During this leg, 107 radiocarbon samples were collected from eight 
+     stations. The program ended 19 April 1989. The table below summarizes 
+     the sample collection and measurement.
+       
+
+                                    | # Radiocarbon Samples
+                                    | ---------------------
+                         Cruise Leg | Collected | Measured
+                         ---------- | --------- | --------
+                             SAVE 1 |    121    |    117
+                                  2 |    163    |    111
+                                  3 |    349    |    296
+                                  4 |    299    |    256
+                                  5 |    173    |    159
+                           HYDROS 4 |    107    |    100
+                          --------- | --------- | --------
+                              TOTAL |  1,212    |  1,039
+     
+     
+     C.  SAMPLES STILL AVAILABLE FOR ANALYSIS
+     
+     Although most of the samples collected during SAVE have been analyzed, 
+     139 samples are still unmeasured and are archived at our laboratory. 
+     Stations not yet analyzed are presented as tables located in the last 
+     section of this report, starting on page 72. We hope that the sample 
+     selection by various investigators and us has covered the major and 
+     relevant ocean features explored during the two years of SAVE. In the 
+     event that some questions remain that could be answered with additional 
+     analyses, we intend to store the remaining samples for a few more years.
+     
+     
+     
+     III.  TECHNICAL PROCEDURES
+     
+     A.  SAMPLING
+     
+     Water samples were collected on board ship using 270 liter stainless 
+     steel Gerard barrels. Shipboard extraction of C02 was performed by 
+     acidifying 200 liters of seawater with 50ml of 95% sulfuric acid, and 
+     bubbling through an inert C02-free gas. The released C02 was then 
+     stripped from the carrier gas and re-dissolved into a 450ml bottle of 4N 
+     sodium hydroxide (NaOH). The sample bottles were then shipped to the 
+     Tritium Laboratory for measurement. Resulting yield, under favorable 
+     conditions, was about 9 lit-atm of C02 or 95 - 98% of the total dissolved 
+     C02 in the sample.
+     
+     
+     B. PREPARATION OF SAMPLING GAS
+     
+     In the laboratory, C02 was released from the NaOH solution by adding 
+     phosphoric acid. Nitrogen gas, the carrier, transferred C02 and any 
+     other evolved gases to collection traps maintained at -196°C by liquid 
+     nitrogen. After pumping on the solid C02, this gas was then passed 
+     through a purification system consisting of a series of cold traps to 
+     remove water vapor, and two copper-silver ovens to remove gaseous 
+     electronegative impurities, mainly chlorine and oxygen. Remaining 
+     impurities were removed by pumping on condensed C02 at a temperature of 
+     -196°C. It is our experience that yields are about 99.7% of the total 
+     C02 contained in the NaOH solution. Occasionally, yields were less than 
+     optimal for counting in the large radiocarbon counters. These samples 
+     were saved when possible by counting in a smaller counter for twice the 
+     length of time required for a normal size sample.
+     
+     At this point, a small aliquot of purified gas was removed for 
+     massspectrometric delta-13C analysis. The remaining gas was stored in a 
+     stainless steel high pressure cylinder for 14 to 21 days before counting 
+     to allow any radon to decay (half-life is 4 days). The radon apparently 
+     originated from the phosphoric acid, and occasionally from the glass of 
+     the NaOH bottles.
+     
+     Below follows a description of our standard 14C measurement technique 
+     and special modification for this project.
+     
+     
+     C. COUNTING
+     
+     We have four 2.5 liter and one 1 liter low-level gas proportional 
+     counting tubes for 14C, using C02 gas samples. The counters are shielded 
+     by 2.5 cm of selected lead, a ring of anti-coincidence Geiger counters, 
+     10cm of paraffin wax, boric acid and/or borated polyethylene, and at 
+     least 20 cm of iron, plus the walls and ceiling of the building. The 
+     counter is filled with the sample to a working pressure of 45 psi. The 
+     proper operating voltage, dependent on temperature and pressure in the 
+     counter, is adjusted to produce the most efficient and stable 14C 
+     detection. This is done by an external radioactive source, usually 60-
+     CO. Gas amplification is continually monitored by the distribution of 
+     meson counts in selected energy channels. The occurrence of radon is 
+     monitored in a separate channel with each counter. Each sample is 
+     counted for at least two separate periods of about 20 hours each, in 
+     different counters, with an interim waiting time of at least 7 days. 
+     Inconsistency between the two counts prompts an additional measurement 
+     in a third counter. For the short samples in this series, two counters 
+     were temporarily standardized to work at low pressure. These samples 
+     were counted for a total of 4 to 6 days.
+     
+     
+     D. BACKGROUND AND STANDARDS
+     
+     Background count rates, typically 3.5 cpm, are determined weekly by 
+     measuring 14C-free C02 gas. The standard material for 14C measurements 
+     is the NBS oxalic acid standard, RM49 and SRM4990C, for radiocarbon 
+     dating. The C02 prepared from this standard is counted for two days 
+     every week in each counter, to determine counting efficiency; typical 
+     count rate for an ocean surface sample is 43 cpm above background.
+     
+     
+     E. UPDATE
+     
+     Periodically, usually every five weeks, all measurements in all counters 
+     for the preceding time period are recomputed, statistical tests are 
+     applied, and results scrutinized for flaw in quality of sample counts 
+     and stability of efficiency and background. This includes all measurements 
+     of standards, unknown and backgrounds. Only after this step is the 
+     measurement result considered final.
+
+     Contribution from minute quantities of C02 in the original NaOH solutions 
+     is measured for each batch of NaOH and appropriate corrections have been 
+     applied.
+     
+     
+     
+     IV.  NOTES ON SCALES
+     
+     The measurement results in the ratio, r, between the measured specific 
+     activity of the sample C02 and that Of C02 prepared from the NBS 
+     standard. The activity value of the standard is corrected to a 
+     hypothetical delta-13C value of -19‰ and age-corrected from today back 
+     to AD1950, all according to international agreement. DELTA-14C is the 
+     deviation, in ‰ (per mil), from unity, of the activity ratio, isotope-
+     corrected to a sample delta-13C value of -25‰ Normally there is very 
+     little (± 0.3‰) isotope separation in our preparation procedure. Within 
+     these limits, our delta-13C values represent the state of isotope fraction-
+     ation of the original seawater C02. According to this convention, each of 
+     our reported DELTA-14C values is, however, normalized to the delta value it 
+     would have if its delta-13C changed to -25‰, noting that the change is 
+     equal to twice the change in 13C . Note that the mass of 14C is always 
+     proportional to the r-value, not to DELTA-14C See Appendix 1.
+     
+     Dr. Minze Stuiver at the Quaternary Lab, University of Washington measured   
+     the delta-13C values for this project by precision mass-spectrometry.
+     
+     For further explanation of these features, and information on standards, 
+     cf. preface to each issue of Radiocarbon, and papers by Broecker and 
+     Olson (1), Stuiver and Robinson (2) and by Stuiver and Polach (3). Also 
+     refer to Appendix.
+     
+     
+     
+     V.  ACCURACY AND ERRORS
+     
+     Errors for delta-14C are not listed in the tables. For a normal size 
+     sample the errors are 3.0 to 3.5‰ for precision and 3.5 to 4.0‰ for 
+     accuracy, including all conceivable uncertainties. The small samples, 
+     due to the very long counting times should be about as good.
+     
+     
+     
+     VI. HYDROGRAPHIC DATA
+     
+     The hydrographic data were supplied by the Ocean Data Facility (ODF), 
+     Scripps Institution of Oceanography. Total C02 data were supplied by 
+     Taro Takahashi, Lamont Doherty Geological Observatory at Columbia 
+     University. They are presented in µmol/kg.
+     
+     We calculated potential temperature from in situ temperature, pressure, 
+     and salinity by the equations of Bryden (4). The density (sigma-theta) 
+     values were calculated according to the International one-atmosphere 
+     equation of state of seawater according to Millero and Poisson (5), 
+     which generates absolute densities in units of kg/m3.  For serious use 
+     of the hydrographic, data, please refer to the Scripps Institution of 
+     Oceanography SAVE Data Reports; S.I.0. Reference 92-9, 92-10 and 92-12. 
+     For total C02 data please contact Taro Takahashi.
+     
+     
+     
+     VII.  COMMENTS TO FIGURES AND TABLES
+     
+     A.  SECTIONS
+     
+     Radiocarbon is expressed as DELTA-14C  The horizontal scale distance is
+     given in kilometers with accompanying latitudes or longitudes. The 
+     vertical depth scale is in meters. Dots indicate measured samples. Due 
+     to scant data coverage in several areas, some subjectivity enters in 
+     drawing the isopleths.
+     
+     
+     B.  PROFILES
+     
+     Radiocarbon is plotted as A14C ‰ versus depth in meters. The bottom 
+     depth is marked by a horizontal line when it falls inside graph limits. 
+     Occasionally, some of the data were not reliable and are designated by 
+     "++" or small letters. Explanations are found in the tables of data.
+     
+     
+     C. TABLES
+     
+     Positions are stated in degrees and minutes. SMPL# is the cast and 
+     Niskin bottle number. GER represents the cast and Gerard barrel number. 
+     DC14 is DELTA-14C ‰ and dC13 is delta-13C ‰ TC02 is total dissolved 
+     carbonate in µmol/kg. All collected sample's are presented in the 
+     tables. Those samples marked with an asterisk, * are still available for 
+     analysis.
+     
+     
+     
+     VIII. REFERENCES
+     
+     Broeker, W.S. , and E.A. Olson, 1961. Lamont radiocarbon measurements VIII. 
+         Radiocarbon, 3, 176-274.
+     
+     Stuiver, M. , and W.S. Robinson, 1974. University of Washington GEOSECS 
+         North Atlantic carbon-14 results. Earth Planet, Sci. Lett., 23, 87-90.
+     
+     Stuiver, M. , and H.A. Polach, 1977. Discussion reporting of 14 C data. 
+         Radiocarbon, 19, (3), 355-363.
+     
+     Bryden, H.L., 1973. New polynomials for thermal expansion, adiabatic 
+         temperature gradient and potential temperature of sea water. Deep-Sea 
+         Res., 20, 401-408.
+     
+     Millero, F.J. and A. Poisson, 1981. International one-atmosphere equation 
+         of state of seawater. Deep-Sea Res., 28, (6A), 625-629.
+     
+     
+     
+     
+                        APPENDIX  (Revised August 15, 1992)
+     
+
+         ON THE MEANING AND USE OF DELTA-14C AND DELTA-14C IN OCEANOGRAPHY
+                                         by
+                                  H. Göte Östlund
+                   Tritium Laboratory, RSMAS, University of Miami
+     
+     
+     Summary  OOPS! Don't use delta-14C for calculating quantity of 14C.
+     
+     
+     ARGUMENT delta
+     
+     Beta counting of 14C produces results in form of count rates, which can 
+     be converted to the relative specific activity r of the sample defined 
+     by
+     
+        r = Asx/Ast = Isx/Ist                                              (1)
+     
+     where Ast is the adjusted specific activity of the NBS oxalic acid 14C 
+     standard, 13.56 dpm/g of carbon, and Asx is the specific activity of the 
+     sample in dpm/g.  By applying the decay rate of 14C this ratio can also be 
+     expressed in isotope 14C/Ctot-abundance ratios I, where Ist is 1.176 - 10-12. 
+     Often a 'per mil deviation', delta-14C is calculated according to
+     
+        delta-14C = 1000 · (r - 1)                                         (2)
+     
+     See Remark.
+     
+     Assuming that isotope fractionation is negligible during sample 
+     preparation, the r-value (and thereby the delta-14C) is the proper 
+     parameter to use for computing the absolute, true quantity of 14C as 
+     number of atoms or moles. Thus the amount of 14C in moles, in a kg of 
+     seawater or air is
+     
+                             -12
+        SIGMA-14C = 1.176 - 10   · r · SIGMA                               (3)
+     
+     where SIGMA-C is the absolute assay of carbon in moles/kg.  Mass inventories 
+     of 14C, as well as macroscopic mixing and transports by currents and 
+     turbulent diffusion call for the use of Eq 3.  If there is fractionation 
+     during collection and processing of a sample, the true, original r-value 
+     can be calculated from the sample r-value if delta-13C data are available 
+     for both.  By experience the standard ship-board C02 extraction from 
+     seawater and laboratory processing cause isotope shifts that are less 
+     than 0.5‰ and thus insignificant.
+     
+     
+     ARGUMENT DELTA: 
+     
+     By (an unfortunate) convention environmental 14C data are usually 
+     expressed as DELTA-14C or R according to
+     
+        DELTA-14C = delta-14C - 2 (delta-13C + 25) · (1 + 0.001delta-14C)  (4)
+        R = 1 + 0. 001.DELTA-14C                                           (5)
+     
+     These equations describe what the 14C/Ctot isotope ratio would be if a
+     hypothetical chemical fractionation  process brings the delta-13C value 
+     from its actual value to -25 per mil.
+     
+     The use of the DELTA-14C and R is a carry-over from the radiocarbon 
+     dating procedures, where isotope fractionation in the biological cycle 
+     necessitates this correction to allow calculation of best 'radiocarbon 
+     age' of a sample, most often organic material. The delta-13C reference 
+     value -25 was originally chosen as standard value, being typical for 
+     terrestrial wood, first used for 14C standard material.
+     
+     In geochemical considerations, conversion to DELTA-14C is needed for 
+     calculations of "mummy" ages and for the proper handling of chemical 
+     equilibria, rate of chemical reactions and phase transfers. Examples:
+     
+          Mummy age = (-ln R) / lambda           years before AD 1950.
+     
+                                           -1
+     where lambda is 14C decay rate in years
+     
+     In air-sea exchange of 14C02, assume Pair and Pdia are partial pressures 
+     of atmospheric and dissolved C02 and Rair and Rdis the isotope adjusted 
+     R-values according to Eq. 5, then there should be chemical equilibrium 
+     (no net transport) of 14C02 if
+     
+          Pair Rair - Pdis Rdis
+     
+     
+     
+     CONCLUSION: 
+     
+     The r-values (delta-14C) are needed for use in the calculation of mass 
+     of 14C. If only DELTA-14C values are available, this is accomplished by 
+     solving for r in the equations 5,4 and 2 above and putting the value into 
+     Eq 3.  With some approximation:
+     
+          Oceanic dissolved C02     delta-13C =   0.0  r = 1.050 R
+          Atmospheric C02           delta-13C = - 8.5  r = 1.033 R
+          Wood (cellulose)          delta-13C = -25    r = 1.000 R
+     
+     The factors in column 3, above express the errors obtained in 14C 
+     inventories if DELTA-14C, or R, is used instead of delta-14C, or r.
+     
+     When one compares 14C in various parts of the ocean, a systematic error 
+     of 5% may be insignificant. Also measured transfer coefficients have 
+     larger uncertainties than 5%. However, include a production term for 14C 
+     (cosmic, industrial), or the atmospheric inventory, and there is cause 
+     for concern.
+     
+     
+     
+     REMARK
+     
+     In the exhaustive, maybe exhausting, paper by Stuiver and Polach
+     (1977) delt-14C is indeed defined accurately and properly, with age
+     corrections of standard material activity to AD 1950, and for the
+     time elapsed between collection and measurement of the unknown
+     sample. It is the first equation (un-numbered) on pg. 361 in that
+     paper. The activity and isotope ratio values of the NBS oxalic acid
+     standard are listed in several papers, among them one by Stuiver et
+     al, (1981), viz pg. 208. The inventory equation on that page should
+     use delta-14C , not DELTA-14C.
+     
+     
+     
+     POSTSCRIPT:
+     
+     This error was pointed out in a recent paper by Bard et al, (1988), and 
+     is discussed by Östlund and Rooth (1990), as well as by Lassey (1989). 
+     In this pioneering paper on global 14C, Craig (1957), correctly used the 
+     unadjusted r-values, and so did Kuc (1986 and 1987) on atmospheric 14C 
+     inventories. Most often, however, DELTA-14C is erroneously used for 
+     absolute quantities of 14C.
+     
+     __________________________________________________________________________
+     __________________________________________________________________________
+
+       FIRST PRESENTED AT THE MODELING WORKSHOP, SEATTLE, WA - AUGUST, 1989
+     __________________________________________________________________________     
+     __________________________________________________________________________     
+
+
+     REFERENCES:
+     
+     Bard, E., M. Arnold, H.G. Östlund, P. Maurice, P. Monfray and J-C 
+          Duplessy.  Penetration of bomb radiocarbon in the tropical Indian 
+          Ocean measured by means of accelerator mass spectrometry, Earth and 
+          Planet. Sci. Lett., 87, 379-389, 1988, viz pg. 380.
+     
+     Craig, H. The Natural Distribution of Radiocarbon and the Exchange Time 
+          of Carbon Dioxide between Atmosphere and Sea, Tellus, 9(1), 1-17, 1957.
+     
+     Kuc, T. Carbon isotopes in atmospheric C02 Of the Krakow Region: A two-
+          year record, Radiocarbon, 28, 649-654, 1986.
+     
+     Kuc, T. 14C traced in Krakow after the Chernobyl accident, Radiocarbon, 
+          29, 319-322, 1987.
+     
+     Lassey, K.R., M.R. Manning and B.J. O'Brien. An Overview of oceanic 
+          radiocarbon, its inventory and dynamics, Aquatic Sciences, 3, 117-146, 
+          1990.
+          
+     Östlund, H.G. and C.G.H. Rooth. The North Atlantic tritium and 
+          radiocarbon transients, 1972-1983. J. Geophys. Res., 95, 20,147-20,165, 
+          1990.
+          
+     Stuiver, M. and H.A. Polach. Discussion Reporting of 14C Data, 
+          Radiocarbon, 19, 355-363, 1977.
+     
+     Stuiver, M., H.G. Östlund and T.A. McConnaughey. GEOSECS Atlantic and 
+          Pacific 14C Distribution in Carbon Cycle Modeling, Wiley and Sons, 
+          1981, edited by Bert Bolin.
+          
+     
+
+
+                                                            A16S (SAVE 5) • 1989
+      __________________________________________________________________________
+      __________________________________________________________________________
+
+
+     CCHDO-WHPO DATA PROCESSING NOTES
+
+     DATE      CONTACT      DATA TYPE  DATA STATUS SUMMARY
+     --------  -----------  ---------  -----------------------------------------
+     12/14/98  Key          DELC14     Key has data
+
+     01/11/99  Smethie      CTD/BTL    Data are public
+
+     04/16/99  Jenkins      He/Tr      Projected Submission Date: 1999.09.15 
+               disk crash/must reprocess
+
+     06/03/99  Diggs        CTD        CTD data are still with the PI. 
+
+     06/04/99  Smethie      CTD        Data avail. at ODF/SIO
+
+     06/07/99  Smethie      CTD        Data are Public
+               I thought you had all the SAVE and you certainly have my 
+               permission to obtain the CTD data.  It is my understanding as 
+               you indicate in your e-mail that it is public
+
+     03/07/00  Talley       CTD/BTL    Data are Public; ctd data should 
+               be on website
+
+     05/31/00  Huynh        DOC        Website Updated; pdf, txt versions 
+               online
+
+     06/16/00  Talley       CTD        Submitted; not woce formatted
+
+     07/07/00  Anderson     CTD/SUM    Data Reformatted
+               Reformatted .sum file.
+               Reformatted CTD files, added correct headers.
+               Used 2 for all QUALT codes.  
+                * Station 279 did not have oxygen, so used quality flag of 9.  
+
+     07/10/00  Bartolacci   SUM        Updated file online
+               I have replaced the current sumfile with the newly reformatted 
+                    sumfile (by SAnderson) and updated all table references
+
+     07/10/00  Bartolacci   CTD        Reformatted file online
+               I have linked the newly reformatted CTD file (reformatted by S. 
+               Anderson) and updated all table references.
+
+     12/11/00  Uribe        DOC        Submitted
+               File contained here is a CRUISE SUMMARY and NOT sumfile; 
+                 Documentation is online.
+               Files were found in incoming directory under whp_reports. 
+               This directory was zipped, files were separated and placed 
+                 under proper cruise. All of them are sum files.
+               Received 1997 August 15th.
+
+
+     DATE      CONTACT      DATA TYPE  DATA STATUS SUMMARY
+     --------  -----------  ---------  -----------------------------------------
+     04/03/01  Diggs        CFCs       Submitted
+               CFC data submitted by Peter Salameh @ SIO. Placed files in 
+               data/onetime/ atlantic/a16/ onetime
+
+     04/11/01  Muus         CFCs/SUM   CFC Data Merged; New SUM file generated
+               Notes file for A16S modification and final CFC merging. 
+               SAVE Leg5/HYDROS Leg 3 R/V MELVILLE April 11, 2001 D. Muus
+                 1. Generated new SUMMARY file from final SIO/ODF data. Now 
+                    has Uncorrected as well as Corrected Bottom Depths,    
+                    corrected EVENT CODEs, NAV, Height ABOVE BOTTOM, WIRE OUT, 
+                    MAX PRESS, NO. OF BOTTLES, complete parameter numbers from 
+                    Sample Log Sheets and COMMENTS from ODF Station and Cast 
+                    Description. Neodynium was not included since it does not 
+                    have a parameter number. Particulates were not included 
+                    since the documentation does not say whether they were 
+                    parameter number 40 or 41 (or both). 
+                 2. Generated new SEA file from final SIO/ODF data. Now has 
+                    BTLNBRs, complete CTDSAL and more decimal places in data. 
+                    ODF did not include CTDOXY with bottle data in pre-woce 
+                    cruises so it is not available for this report. Oxygen is 
+                    included with the CTD data. 
+                 3. Merged final CFC data received from Peter Salameh April 3, 
+                      2001/usr/export/html-public/data/onetime/atlantic/a16/
+                        original/A16_SAVE_CFC/save5.txt 
+                    into the new SEA file, replacing the shipboard CFCs in the 
+                    ODF data. 
+
+     04/16/01  Muus         CFCs       Reformatted by WHPO
+               The modified a16c and a16s data are in ~dave/SDIGGS/A16.  I 
+                 was wrong in my April 3rd message assuming the .SEA files 
+                 were from ODF. They look more like they were generated from 
+                 .sd2 files.  I redid everything from the final ODF data: .SUM 
+                 files, .SEA files for rosette and .SEA files for large volume 
+                 samplers.  Freons were collected from the piggyback Niskins 
+                 on many of the Large Volume casts.  Many of the CFCs have 
+                 quality codes of 6 meaning they are averages of replicate 
+                 samples. The WOCE instructions say the details on the 
+                 replicates should be in the documentation. I haven't seen any 
+                 such documentation, could it be in the original CFC data 
+                 directory in "a16_save_cfc.mail"?  The read permission is 
+                 'owner only'.
+               We do not have any of the actual large volume data 
+                 (c14, argon-39, krypton, radium 228 & 226). The new files 
+                 included them in the .SUM parameters but do not have any 
+                 headers in the .SEA files.
+               Successfully ran sumchk and wocecvt.
+               Please let me know if you have any questions or need further 
+                 clarification.    
+
+
+     DATE      CONTACT      DATA TYPE  DATA STATUS SUMMARY
+     --------  -----------  ---------  -----------------------------------------
+     06/20/01  Uribe        BTL        Website Updated; Exchange File Online
+                 Bottle file in exchange format has been linked to website.
+
+     06/21/01  Uribe        CTD/BTL    Website Updated; new exchange files
+               The exchange bottle file name in directory and index file 
+               was modified to lower case.
+               CTD exchange files were put online.
+
+     08/02/01  Key          DELC14     Website Updated; PI names corrected 
+               The PIs for C14 during SAVE/HYDROS were Broecker/Ostlund. 
+               The summary table shows No Data for A16C or A16S. I can 
+               provide copies of the LV files for all of SAVE/HYDROS if you 
+               do not have. I do not have Jenkin's (not Smethie) H3/He3 data 
+               for these cruises.
+
+     08/27/01  Swift        He/Tr      HE/TR data requested by J Swift
+               WHPO records indicate he/tr data not yet submitted. Request for 
+               earliest possible submission sent to Bill Jenkins.
+
+     09/17/01  Diggs        CFCs/LV    New hyd/sum/LV & exchange files online
+               Replaced both the SUM and BOTTLE files online with the ones 
+               with CFC values (Muus 20010416). Also placed LVS file online, 
+               produced EXCHANGE file and placed on website. EXCHANGE file 
+               verified w/ JOA v3.0.
+
+     11/12/01  Key          BTL/SUM    BTL and SUM submitted, see note:
+               I uploaded the SAVE+HYDROS LV files today using your form. 
+               Note that a bottle number of "99" is a surface sample 
+               obtained without using a Gerard barrel. The file I sent does 
+               NOT have the piggyback niskin bottles. The only way I have 
+               that information is in a merged ascii file with "everything". 
+               This merged file does not have flags and is closer to the 
+               original files sent out by ODF + merged data I recieved from 
+               individual investigators. I have attached a copy of this file 
+               "just in case". The attached file is in an shortened format, 
+               but your guys won't have any trouble doing a reformat.
+
+
+     DATE      CONTACT      DATA TYPE  DATA STATUS SUMMARY
+     --------  -----------  ---------  -----------------------------------------
+     11/19/01  Key          BTL        Large Volume submitted, not DQE'd
+               This is information regarding line: SAVE 1-5; HYDROS-4
+                 ExpoCode: 
+                 Cruise Date:   1987/11/23 - 1989/04/19
+                 From:          KEY, ROBERT
+                 Email address: key@princeton.edu
+                 Institution:   PRINCETON
+                 Country:       USA
+                 The file:      SAVE.dat - 209411 bytes
+                 has been saved as: 
+                                20011112.075818_KEY_SAVEÝ1_5;ÝHYDROS_4_SAVE.dat
+                 in the directory:  
+                                20011112.075818_KEY_SAVEÝ1_5;ÝHYDROS_4
+                 The data disposition is:  
+                                Public  
+                 The bottle file has the following parameters: 
+                                CTDPRS, REVTMP, SALNTY, OXYGEN, SILCAT, NITRAT
+                                NITRIT, PHSPHT, C14,    C14ERR, TCARBN, ALKALI
+                 The file format is:
+                                Comma Separated Values 
+                 The archive type is:  
+                                NONE - Individual File 
+                 The data type(s) is:
+                                Summary (navigation)
+                                Bottle Data (hyd)
+                 The file contains these water sample identifiers:
+                                Cast Number (CASTNO)
+                                Station Number (STATNO)
+                                Bottle Number (BTLNBR)
+                 KEY, ROBERT would like the following action(s) taken on the data:  
+                                Place Data Online
+                 Any additional notes are: 
+                                WOCE flags have been assigned and are included, 
+                                however, th  QC was NOT thorough, especially with 
+                                respect to routine hydro data.
+
+     12/06/01  Key          DELC14     Data QC'd to WOCE standards
+               The primary ref. for the SAVE/HYDROS C14 data is:
+
+                                    S.A.V.E. Radiocarbon
+                      South Atlantic Ventilation Experiment 1987-1989
+                           Tritium Laboratory Data Report No. 18
+                                H. gote Ostlund and C. Grall
+                                         Univ. OF Miami
+                    Rosenstiel School of Marine and Atmospheric Science
+                                       Miami, FL 33149
+                                         Sept. 1992
+                                            84pp
+
+               I will try to do a more complete QC of SAVE by the end of the 
+               year, but this should only amount to a footnote saying that 
+               the data have been QCed to WOCE standards.
+
+
+     DATE      CONTACT      DATA TYPE  DATA STATUS SUMMARY
+     --------  -----------  ---------  -----------------------------------------
+     12/20/01  Uribe        CTD        Website Updated; Exchange file online
+               CTD has been converted to exchange using the new code and 
+               put online.
+
+     12/20/01  Hajrasuliha  CTD        Data consistency check done
+
+     07/10/02  Huynh        DOC        Website Update; PDF & TXT cruise 
+               reports online
+
+     03/20/03  Kozyr        TCO2/PCO2  Submitted
+               I noticed that the carbon data for A16S (R/V MELVILLE CR 
+               SAVE-5/HYDROS-3 WHP-ID A16S  23 JAN 1989 - 8 MAR 1989  
+               20010417WHPOSIODM) are missing in WHPO bottle data file. I 
+               have put the data file with TCO2 and pCO2 (and pCO2TMP) 
+               values into WHPO ftp area.
+
+     04/16/03  Anderson     TCO2/PCO2  Data merged into online BTL file
+               Merged carbon data into online file. 
+               Made new exchange file, put files online.
+                 Notes on a16s carbon merging:
+
+               April 16, 2003
+               A. Kozyr noted that the carbon data for a16s was not in the 
+                 online file. (See e-mail above)
+               Since the file he sent only had station number and bottle 
+                 number to use for merging, I retrieved the a16s carbon data 
+                 from his web site.
+                 • Merged TCARBN, PCO2, and PCO2TMP into the online file 
+                                   20010412WHPOSIODM.
+                 • Copied QUALT1 flags to QUALT2 flags.
+                 • Changed the missing data code for TCARBN and PCO2 from -999.9 
+                   to -9.0 and for PCO2TMP from -999.90 to -9.00.
+                 • Made new exchange file, and put files online.
+ 
+     09/28/04  Kappa        DOC        PDF & Text Cruise reports expanded/updated
+               Additions to both versions (PDF and Text):
+                 Final ODF-SIO Data Report which includes:
+                  • Bottle Data Collection, Analyses and Processing
+                    Salinity, Oxygen, Nutrients
+                  • CTD Data Collection, Analyses and Processing
+                  • References
+                  • CTD Processing Notes
+                  • Bottle Data Processing Notes
+                  • List of Participants
+                 Radiocarbon report by H. Göte Östlund and Charlene Grall
+                 CCHDO-WHPO cruise summary page (page 1)
+                 These CCHDO-WHPO Data Processing Notes
+               
+               Changes to PDF version only:
+                 Added standard "WOCE" outline (page 2) with links to text 
+                 Updated CCHDO-WHPO station plot with improved clarity
+                 Added station track from author's original report
+                 Added scatter plots (nutrients)
+                 Added figures for radiocarbon report
+ 
