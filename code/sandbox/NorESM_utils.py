@@ -115,8 +115,8 @@ def section_data():
   data.update({"passage_names": passage_names})
   data.update({"models": models})
   #
-  return data 
- 
+  return data
+
 def PAGO_sections(sections,modelname,fname):
   #READ IN SECTIONS DEFINED IN PAGO AND PUT THEM INTO A NICE FORMAT
   #sections=['brw','brn','be1','be2','fst','lan','nrs','BER','baf','dso','ifo','fso']
@@ -156,7 +156,7 @@ def PAGO_sections(sections,modelname,fname):
       diru[list(np.where(dir1=='N')[0])]=0; udir.append(diru);
       dirv[list(np.where(dir1=='W')[0])]=0; vdir.append(dirv);
   model={"names": sections, "veci": veci, "vecj": vecj, "udir": udir, "vdir":vdir}
-  
+
   return model
 
 def fix_PAGO(s_v,s_u,data):
@@ -187,7 +187,7 @@ def fix_PAGO(s_v,s_u,data):
         data[i1[0]]=ma.masked_array(data.data[i1[0]]+.5*data.data[i],mask=data.mask[i1[0]])
         data[i1[1]]=ma.masked_array(data.data[i1[1]]+.5*data.data[i],mask=data.mask[i1[1]])
     dataout=data[ind1]
-  
+
   return ind1,dataout
 
 def find_bottompatch(x,y,maxd):
@@ -218,7 +218,7 @@ def find_bottompatch(x,y,maxd):
   b_patch2[4:imid2+4:2,1]=y[imid-1:-1][::-1]; #from left to middle
   b_patch2[imid2+2:-2:2,1]=y[:imid][::-1]; #from rigth to middle
   b_patch2[imid2+3:-2:2,1]=y[:imid][::-1]; #from rigth to middle
-  
+
   return b_patch, b_patch2
 
 
@@ -230,7 +230,7 @@ def point_inside_polygon(x,y,poly):
     #Adapted from http://www.ariel.com.au/a/python-point-int-poly.html
     n = len(poly)
     inside =False
-    
+
     p1x,p1y = poly[0]
     for i in range(n+1):
         p2x,p2y = poly[i % n]
@@ -242,14 +242,14 @@ def point_inside_polygon(x,y,poly):
                     if p1x == p2x or x <= xinters:
                         inside = not inside
         p1x,p1y = p2x,p2y
-    
+
     return inside
 
 #def insphpoly(lon,lat,lonv,latv,lon0,lat0):
 #    """ INSPHPOLY True for points inside or on a polygonal region. INSIDE = INSPHPOLY(LON,LAT,LONV,LATV,LON0,LAT0) returns a matrix INSIDE the size of LON and LAT.  INSIDE(p,q) = 1 if the point (LON(p,q), LAT(p,q)) is either strictly inside or on the edge of the spherical polygonal region whose vertices are specified by the vectors LONV and LATV; otherwise INSIDE(p,q) = 0. All positions are stereographically projected onto a plane with (LON0, LAT0) in origo before polygon testing is done."""
 #  #
 #  #rad=pi/180;
-#  #w=np.tan((90-lat0)*rad/2).*np.exp(np.i*lon0*rad); 
+#  #w=np.tan((90-lat0)*rad/2).*np.exp(np.i*lon0*rad);
 #  #z=np.tan((90-lat)*rad/2).*np.exp(np.i*lon*rad);
 #  #z=(z-w)./(np.conj(w).*z+1);
 #  #zv=np.tan((90-latv)*rad/2).*np.exp(np.i*lonv*rad);
@@ -335,8 +335,11 @@ def basin_coords(x,y,basin_name):
        yp=[  9.0,  9.0,  9.0,  9.0,  9.0,  9.0,  7.0,  8.5,  9.5,  9.0, 17.0,  21.0,  65.6,  65.5,  66.5, 66.0,66.0,62.0,68.0,60.0,55.0,49.0,36.0,35.0, 10.0]
     elif basin_name=='atlantic':
        xp=[-65.0,-76.0,-77.0,-78.0,-82.0,-91.0,-101.0,-130.0,-164.0,-175.0,150.0,95.0,36.0,20.0,11.0, 9.0, 9.0,-5.5,-5.5,25.0, 19.5, 10.0,  0.0,-13.0,-20.0,-30.0,-40.0,-50.0,-60.0,-70.0,-60.0,-65.0]
-       yp=[  9.0,  7.0,  8.5,  9.5,  9.0, 17.0,  21.0,  65.6,  65.5,  66.5, 66.0,66.0,62.0,68.0,60.0,55.0,49.0,36.0,35.0, 0.0,-34.5,-40.0,-45.0,-50.0,-50.0,-50.0,-50.0,-50.0,-50.0,-50.0,-20.0,  9.0]   
-    
+       yp=[  9.0,  7.0,  8.5,  9.5,  9.0, 17.0,  21.0,  65.6,  65.5,  66.5, 66.0,66.0,62.0,68.0,60.0,55.0,49.0,36.0,35.0, 0.0,-34.5,-40.0,-45.0,-50.0,-50.0,-50.0,-50.0,-50.0,-50.0,-50.0,-20.0,  9.0
+    elif basin_name=='atlantic_SO':
+       xp=[-65.0,-76.0,-77.0,-78.0,-82.0,-91.0,-101.0,-130.0,-164.0,-175.0,150.0,95.0,36.0,20.0,11.0, 9.0, 9.0,-5.5,-5.5,25.0, 19.5, 10.0,  0.0,-13.0,-20.0,-30.0,-40.0,-50.0,-60.0,-70.0,-60.0,-65.0]
+       yp=[  9.0,  7.0,  8.5,  9.5,  9.0, 17.0,  21.0,  65.6,  65.5,  66.5, 66.0,66.0,62.0,68.0,60.0,55.0,49.0,36.0,35.0, 0.0,-80,-80.0,-80.0,-80.0,-80.0,-80.0,-80.0,-80.0,-80.0,-80.0,-20.0,  9.0]
+
     return xp,yp
 
 def basin_mask(x,y,basin_name,is_basin=True,xp=None,yp=None):
@@ -347,9 +350,9 @@ def basin_mask(x,y,basin_name,is_basin=True,xp=None,yp=None):
     m=Basemap(projection='npstere', boundinglat=20, lon_0=0)
     xp,yp=m(xp,yp)
     poly=[]
-    for j in range(len(xp)):       
+    for j in range(len(xp)):
        poly.append((xp[j],yp[j]))
-    
+
     if(len(x.shape)==2):
       inside=np.ones(x.shape)*np.nan
       for i in range(x.shape[0]):
@@ -362,7 +365,7 @@ def basin_mask(x,y,basin_name,is_basin=True,xp=None,yp=None):
         for i in range(x.shape[0]):
           xx,yy=m(x[i],y[j])
           inside[j,i]=point_inside_polygon(xx,yy,poly)
-    
+
     return inside
 
 def woa_basins(lon,lat,basin_name):
@@ -372,7 +375,7 @@ def woa_basins(lon,lat,basin_name):
     mask=griddata((lonwoa,latwoa),datawoa,(lon,lat),method='nearest',fill_value=99)
     if basin_name=='arctic':
       mask[mask!=11]=0; mask[mask!=0]=1
-    
+
     return mask
 
 def drainage_basin(x,y,regime):
@@ -387,7 +390,7 @@ def drainage_basin(x,y,regime):
       data[data==2]=1
     jj,ii=np.where(data<=2)
     mask=griddata((lon[jj,ii],lat[jj,ii]),data[jj,ii],(x,y),method='nearest',fill_value=0.0)
-    
+
     return mask
 
 def NorESM_masks(basin_name,iinds,jinds,barents=False,secfile='secindex.dat',grid='bipolar',lon=None,lat=None, baltic=True, boundary=True):
@@ -461,7 +464,7 @@ def NorESM_masks(basin_name,iinds,jinds,barents=False,secfile='secindex.dat',gri
          j_out,i_out=lonlat_index(lon,lat,42,58.5,inc=0.5)
          coords.extend([[i_out,j_out]])
      else:
-       #don't include barents sea 
+       #don't include barents sea
        coords.extend([[96,369],[99,369],[99,367],[103,367],[115,361],[117,359],[114,352],[104,352],[104,351],[101,351],[101,350],[98,350],[98,349],[96,349],[94,344],[94,333]])
      coords.extend((inds_all.get('bering_strait')[:,:2]-1).tolist())
      if grid in ['bipolar']:
@@ -502,7 +505,7 @@ def NorESM_masks(basin_name,iinds,jinds,barents=False,secfile='secindex.dat',gri
        coords[ma.where(coords[:,1]>=lat.shape[0])[0],1]=lat.shape[0]-1
        mask2[list(coords[:,1]),list(coords[:,0])]=mask2[list(coords[:,1]),list(coords[:,0])]+1
        mask[ma.where(mask2==2)]=1
-    
+
     return mask
 
 def lonlat_index(lon,lat,lon_p,lat_p,inc=0.5):
@@ -510,7 +513,7 @@ def lonlat_index(lon,lat,lon_p,lat_p,inc=0.5):
    j1,i1=ma.where(ma.logical_and(lat<lat_p+inc,lat>lat_p-inc))
    j2=ma.where(ma.logical_and(lon[j1,i1]<lon_p+inc,lon[j1,i1]>lon_p-inc))[0]
    j_out,i_out=ma.where(ma.logical_and(lat==lat[j1,i1][j2][0],lon==lon[j1,i1][j2][0]))
-   
+
    return j_out,i_out
 
 def lonlatfix(lon,lat):
@@ -540,7 +543,7 @@ def enable_global(tlon,tlat,data):
   tlat = np.concatenate((tlat,tlat),1)
   data = ma.concatenate((data,data),1)
   tlon = tlon-360.
-  
+
   return tlon, tlat, data
 
 def NorESM_add_cyclic(lon,lat,data,dim=1):
@@ -570,16 +573,16 @@ def NorESM_add_cyclic(lon,lat,data,dim=1):
       elif dim==1:
         exec('d'+v+'[:,:-1,:]='+v+'')
         exec('d'+v+'[:,-1,:]='+v+'[:,0,:]')
-    
+
     return dlon, dlat, ddata
- 
+
 #def make_dist_grid(lon,lat):
 # ''' THIS IS TOO SLOW, THINK ABOUT AWAY TO AVOID THE LOOPS '''
 #    if len(lon.shape)>1:
 #      dx=np.zeros(lon.shape)
 #      dy=np.zeros(lon.shape)
 #      for i in range(1,lon.shape[0]):
-#        for j in range(1,lon.shape[1]):       
+#        for j in range(1,lon.shape[1]):
 #         d=gsw.earth.distance([0,lon[i,j]],[0,lat[i,j]])
 #         dy[i,j]=d*np.sin(np.radians(lat[i,j]));dx[i,j]=d*np.cos(np.radians(lon[i,j]))
 
@@ -629,12 +632,12 @@ def across_line2(x_line,y_line,lon_line,lat_line,u_line,v_line):
     #t_across=u_line*np.cos(phi)*(lon_line/np.abs(lon_line))+v_line*np.sin(phi)*(lat_line/np.abs(lat_line))
     t_across=u_line*np.cos(phi)+v_line*np.sin(phi)
     t_along=u_line*np.sin(phi)+v_line*np.cos(phi) #this is probably wrong
-    
+
     return t_across,t_along,phi
 
 def vecrotc(lon,lat,u,v,scalar=True):
     """ VECROTC rotate vector components [UR,VR] = VECROT(LON,LAT,U,V) rotate the vector components U and V defined at Arakawa C grid velocity points to zonal (UR) and meridional (VR) components defined at scalar points, or optionally at their respective points. LON and LAT defines the geographic location of the scalar points. Points near the pole singularities are set to NaN."""
-    
+
     # Centered latitude and longitude differences in one direction
     dlat=np.zeros(lat.shape); dlon=np.zeros(lon.shape)
     dlat[:,0]=lat[:,1]-lat[:,0]; dlat[:,1:-1]=(lat[:,2:]-lat[:,0:-2])*.5; dlat[:,-1]=lat[:,-1]-lat[:,-2]
@@ -643,7 +646,7 @@ def vecrotc(lon,lat,u,v,scalar=True):
     dlon[dlon<-180]=dlon[dlon<-180]+360
     dlon[dlon>90]=dlon[dlon>90]-180
     dlon[dlon<-90]=dlon[dlon<-90]+180
-    
+
     # Compute rotation angle
     rad=np.pi/180
     phi=np.arctan2(dlat,(dlon*np.cos(np.radians(lat))))
@@ -654,7 +657,7 @@ def vecrotc(lon,lat,u,v,scalar=True):
         # Get velocity components at scalar point
         us[:,:-1]=ma.sum([u[:,:-1],u[:,1:]],0)*.5
         #us[:,-1]=u[:,-1]
-        vs[:-1,:]=ma.sum([v[:-1,:],v[1:,:]],0)*.5 
+        vs[:-1,:]=ma.sum([v[:-1,:],v[1:,:]],0)*.5
         #vs[-1,:]=v[-1,:];
       elif len(u.shape)==3:
         # Get velocity components at scalar point
@@ -662,20 +665,20 @@ def vecrotc(lon,lat,u,v,scalar=True):
         #us[:,-1]=u[:,-1]
         vs[:,:-1,:]=ma.sum([v[:,:-1,:],v[:,1:,:]],0)*.5
         #vs[-1,:]=v[-1,:];
-    
+
     # Rotate the vector components
     ur=us*np.cos(phi)-vs*np.sin(phi)
     vr=us*np.sin(phi)+vs*np.cos(phi)
-    
+
     # Set points near pole singularities to NaN
     #ind=find(lat>88|lat<-88);
     #ur(ind)=nan;
     #vr(ind)=nan;
-    
+
     return ur, vr, phi
 
 def noresm2WOA(datain,shift=False, grid='gx1v6',dest='1deg'):
-    '''noresm2WOA(datain,shift=False, grid='gx1v6') 
+    '''noresm2WOA(datain,shift=False, grid='gx1v6')
     Interpolate from the 2D datain field (choose grid to be one of the following: 'gx1v6', 'tnx1v1', 'tnx0.25v1') to WOA09 cartesian grid using a predefined weights defined in sparse matrix S'''
     #load the data
     if grid in ['gx1v6']:
@@ -709,7 +712,7 @@ def noresm2WOA(datain,shift=False, grid='gx1v6',dest='1deg'):
       j=nx_b/2
       s_c=s_b.copy(); s_c[:,:j]=s_b[:,j:]; s_c[:,j:]=s_b[:,:j]; s_b=s_c
       lon_c=lon_b.copy(); lon_c[:j]=lon_b[j:]; lon_c[j:]=lon_b[:j]; lon_b=lon_c
-    
+
     return lon_b, lat_b, s_b
 
 def noresm2scalar(u,v):
@@ -723,8 +726,8 @@ def noresm2scalar(u,v):
         # Get velocity components at scalar point
         us[:,:,:-1]=ma.sum([u[:,:,:-1],u[:,:,1:]],0)*.5
         vs[:,:-1,:]=ma.sum([v[:,:-1,:],v[:,1:,:]],0)*.5
-    
-    return us,vs     
+
+    return us,vs
 
 def scalar2u(S,dp=None,area=None):
     """ Linearly interpolate scalar S to u point on NorEsm C grid"""
@@ -915,7 +918,7 @@ def climatology(S):
     C=ma.zeros((12,jdim,idim))
     for m in range(12):
       C[m,:,:]=ma.mean(S[m::12,:,:],0)
-    
+
     return C
 
 def remove_clim(S):
@@ -926,7 +929,7 @@ def remove_clim(S):
     years=tdim/12
     for y in range(years):
       Sout[y*12:(y+1)*12,:,:]=S[y*12:(y+1)*12,:,:]-C
-    
+
     return Sout
 
 def zonal_average(data,area,lat,lon,iinds,jinds,mask=None,ave=True,dz=None,dp=None,zlevels=None,zlev=None,dlat=1,lat_out=None):
@@ -989,7 +992,7 @@ def zonal_average(data,area,lat,lon,iinds,jinds,mask=None,ave=True,dz=None,dp=No
         for j,l in enumerate(lat_out):
            #ii,jj=ma.where(abs(lat-l)<=0.5) #This is the full zonal band
            ii,jj=ma.where(ma.logical_and((lat-l)>=(-.5*dlat), (lat-l)<(.5*dlat)))
-           #Since the latitude is already masked we can just calculate the weighted average. 
+           #Since the latitude is already masked we can just calculate the weighted average.
            #However, mask area again with data mask to make sure the depth is taken into account
            if ave:
              data_out[:,j]=ma.sum((a_data*a_area2)[:,ii,jj],1)/ma.sum(a_area2[:,ii,jj],1)
@@ -1004,10 +1007,10 @@ def zonal_average(data,area,lat,lon,iinds,jinds,mask=None,ave=True,dz=None,dp=No
            data_out[j]=ma.sum((a_data*a_area)[ii,jj])/ma.sum(a_area[ii,jj])
          else:
            data_out[j]=ma.sum(a_data[ii,jj])
-    
+
     mask3=np.zeros(data_out.shape); mask3[ma.where(data_out==0.0)]=1
     data_out=ma.masked_array(data=data_out,mask=mask3)
-    
+
     return data_out, lat_out, dz_out
 
 
@@ -1020,7 +1023,7 @@ def MLD(templvl,salnlvl,zlev,dcrit=0.03):
     mld=np.zeros(salnlvl.shape[0])
     for k in range(len(mld)):
       mld[k]=np.interp(dcrit, dens[k,:]-dens[k,0], zlev)
-    
+
     return mld
 
 def seasonind(ys,ye,season='winter'):
@@ -1034,17 +1037,17 @@ def seasonind(ys,ye,season='winter'):
           seasonind=np.ones(yy*3); seasonind[0::3]=np.arange(6,12*yy,12); seasonind[1::3]=np.arange(7,12*yy,12); seasonind[2::3]=np.arange(8,12*yy,12);
     elif season=='autumn':
           seasonind=np.ones(yy*3); seasonind[0::3]=np.arange(9,12*yy,12); seasonind[1::3]=np.arange(10,12*yy,12); seasonind[2::3]=np.arange(11,12*yy,12);
-     
+
     return seasonind
 
 def eosben07_const():
     a11= 9.9985372432159340e+02;
     a12= 1.0380621928183473e+01;
-    a13= 1.7073577195684715e+00;  
+    a13= 1.7073577195684715e+00;
     a14=-3.6570490496333680e-02;
     a15=-7.3677944503527477e-03;
     a16=-3.5529175999643348e-03;
-    a21= 1.0;  
+    a21= 1.0;
     a22= 1.0316374535350838e-02;
     a23= 8.9521792365142522e-04;
     a24=-2.8438341552142710e-05;
@@ -1056,7 +1059,7 @@ def eosben07_const():
     b21= 1.1995545126831476e-05;
     b22= 5.5234008384648383e-08;
     b23= 8.4310335919950873e-09;
-    
+
     return a11,a12,a13,a14,a15,a16,a21,a22,a23,a24,a25,a26,b11,b12,b13,b21,b22,b23
 
 def p_alpha(p,p0,th,s):
@@ -1114,7 +1117,7 @@ def read_mimoc():
         lat=fm.variables['LATITUDE'][:].copy()
         lon=fm.variables['LONGITUDE'][:].copy()
         p=fm.variables['PRESSURE'][:].copy()
-    
+
     return p,lon,lat,saln,temp
 
 def read_mimoc_ML(wm=False):
@@ -1186,7 +1189,7 @@ def smooth2D(lon,lat,datain,n=1,use_weights=False,weights_only=False,save_weight
       if use_weights:
         dataout[j,i]=ma.sum(datain[jind2[diind],iind2[diind]]*weights)/ma.sum(weights)
       elif use_median:
-        dataout[j,i]=ma.median(datain[jind2,iind2]) 
+        dataout[j,i]=ma.median(datain[jind2,iind2])
       else:
         dataout[j,i]=ma.mean(datain[jind2,iind2])
   if save_weights:
@@ -1209,7 +1212,7 @@ def uv_interp_closest_dist(xlon,ylat,jj,ii,u,v,ulon,ulat,vlon,vlat,umask,vmask,i
    for kk in [ii,inw[hh,ii],ine[hh,ii],ine[hh,ine[hh,ii]]]:
      du.append(dist.distance([xlon,ylat],[ulon[hh,kk],ulat[hh,kk]]))
      jjii_u.append([hh,kk])
-  
+
   #sort the distance list and pick 4 closest
   for k in np.argsort(du)[:4]:
     jj1,ii1=jjii_u[k]
@@ -1218,7 +1221,7 @@ def uv_interp_closest_dist(xlon,ylat,jj,ii,u,v,ulon,ulat,vlon,vlat,umask,vmask,i
     #uu=ma.sum([uu,u[jj1,ii1]*du[k]/float(np.sum(np.sort(du)[:4]))],0)
     #dutot=dutot+du[k]*umask[jj1,ii1]
   #uu=uu/dutot
-  
+
   #v loop over the surrounding indices, calculates the distance to the current location and saves the indices
   for hh in [jj,jj+1,jj-1,jj+2]:
    if hh>383: break
@@ -1226,7 +1229,7 @@ def uv_interp_closest_dist(xlon,ylat,jj,ii,u,v,ulon,ulat,vlon,vlat,umask,vmask,i
    for kk in [ii,inw[hh,ii],ine[hh,ii]]:
      dv.append(dist.distance([xlon,ylat],[vlon[hh,kk],vlat[hh,kk]]))
      jjii_v.append([hh,kk])
-  
+
   #sort the distance list and pick 4 closest - note that the weigth is total_dist-dist/sum(total_dist) giving largest weigth to the closest point
   for k in np.argsort(dv)[:4]:
     jj1,ii1=jjii_v[k]
@@ -1234,12 +1237,12 @@ def uv_interp_closest_dist(xlon,ylat,jj,ii,u,v,ulon,ulat,vlon,vlat,umask,vmask,i
     vv=ma.sum([vv,v[jj1,ii1]*weigth],0) #
     #dvtot=dvtot+dv[k]*vmask[jj1,ii1]
   #vv=vv/dvtot
-  
+
   return uu,vv
 
 def grid_angle(lat_vertices,lon_vertices,lat,lon):
     """Calculate the grid orientation, note that this is probably not exactly correct but close enough (will be the mean of the grid vertices, but probably should be the value at the grid center)"""
-    dlat1=lat_vertices[:,:,-1]-lat_vertices[:,:,0] 
+    dlat1=lat_vertices[:,:,-1]-lat_vertices[:,:,0]
     dlat2=lat_vertices[:,:,2]-lat_vertices[:,:,1]
     #note that there is a correction for the longitude differences in cases where we cross the 0 longitude
     #note that this assumes longitudes to be from 0-360
@@ -1316,7 +1319,7 @@ def trajectories(uin,vin,lon,lat,ulon,ulat,vlon,vlat,ine,inw,pdy,pdx,angleu=None
            if (np.isnan(ud) or np.isnan(vd)) or (ud==0 or vd==0):
               break
          #adjust the timestep so that every segment will have the same length if smax is given
-         #This speeds up the code remarkably - very slow points are not integrated 
+         #This speeds up the code remarkably - very slow points are not integrated
          if smax!=None:
            dt=smax/np.sqrt(ud**2+vd**2)
            if tcum+dt>tmax: #we limit the time to be exactly tmax so the last timestep may need to be adjusted
@@ -1358,7 +1361,7 @@ def trajectories(uin,vin,lon,lat,ulon,ulat,vlon,vlat,ine,inw,pdy,pdx,angleu=None
          j=j+1;
          if (tcum/3600./24.)/((tt+1)*30.)>=1: #tt is month index, save only the location at the end of each month
             tt=tt+1; xlon2.append(xlon[j-1]); ylat2.append(ylat[j-1]);
-       xtrack.append(xlon); ytrack.append(ylat); 
+       xtrack.append(xlon); ytrack.append(ylat);
     #save the xlon2,ylat2 locations at the end of the month - this is done because I wanted to pick up a timeseries along a path
     #For plotting it is reasonable to save xlon and ylat, ie locations in given distances.
     #Maybe best to simply return both
@@ -1372,18 +1375,18 @@ def trajectories(uin,vin,lon,lat,ulon,ulat,vlon,vlat,ine,inw,pdy,pdx,angleu=None
     xmask=xtrack2.copy(); xmask[np.where(np.isnan(xtrack2))]=1; xmask[np.where(~np.isnan(xtrack2))]=0
     xtrack2=ma.masked_array(xtrack2,mask=xmask)
     ytrack2=ma.masked_array(ytrack2,mask=xmask)
-    
+
     return xtrack2, ytrack2
 
 def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[None],ymax=101):
     """all_dict=load_CMIP5(var,regime1,dims,models=None,scenario=None,ensembles=None,z=None,ymax=101)
-      reads the timeseries of given variable. var, regime1, dims, and z are lists of variables, their regimes 
-      (ocean, atmos, land), list of dimensions (2D or 3D neglecting time) and list of where depths at which 
-      the data will be pulled. z is only relevant if the data is 3D, but one only wants certain depth level. 
+      reads the timeseries of given variable. var, regime1, dims, and z are lists of variables, their regimes
+      (ocean, atmos, land), list of dimensions (2D or 3D neglecting time) and list of where depths at which
+      the data will be pulled. z is only relevant if the data is 3D, but one only wants certain depth level.
       var,regime1,dims and z have to be defined. models, scenario, and ensembles can be left empty. If models
-      is not defined the function will attempt to use all the available models that have data for all the variables. 
+      is not defined the function will attempt to use all the available models that have data for all the variables.
       Because of this if one wants to all the data for one model the function should be called with one variable only.
-      If scenario is not specified or is None it defaults to rcp8.5 and if ensembles is not defined it  will try all the 
+      If scenario is not specified or is None it defaults to rcp8.5 and if ensembles is not defined it  will try all the
       possible ensemble members. ymax limits the length of the timeseries in years (relevant for long runs such as piControl)."""
     if scenario==None:
      scenarios=['piControl','historical','rcp85','rcp26','rcp45','rcp60','lgm']
@@ -1416,7 +1419,7 @@ def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[N
      m=m2-mm
      print model
      ens=[]
-     #First read some grid variables 
+     #First read some grid variables
      #- additionally lon,lat information is dowloaded for each variable separately
      if 'atmos' in regime1:
        if not model in os.listdir('/Data/skd/share/ModData4/CMIP5/fixed/atm/areacella/'):
@@ -1505,7 +1508,7 @@ def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[N
      print dum
      for k,ensemble in enumerate(ensembles):
       if ensemble not in dum: #if the ensemble is not in the dum then break
-         continue 
+         continue
       ensd=[]
       for c,v in enumerate(var): #loop over the variables
         if regime1[c]=='ocean': # or regime1[c]=='seaice':
@@ -1526,16 +1529,16 @@ def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[N
           #############################################
           # PUT TOGETHER A LIST OF FILES FOR DOWNLOAD #
           #############################################
-          #This is based on the CMIP5 naming convention makes life easy 
+          #This is based on the CMIP5 naming convention makes life easy
           #since we don't need to care about the different calendars etc
-          #of infividual models- we can just sinmply pick the timeseries 
-          #based on the given filenames. Note that for this reason the 
+          #of infividual models- we can just sinmply pick the timeseries
+          #based on the given filenames. Note that for this reason the
           #selection will depend on the amount of files the data is in
           #if there is only one file the function will download everything
           #no matter the selection
           if scenario in ['historical','lgm']:
             ind2=len(dirList)
-            #This is away to limit the historical data to years after 1970 
+            #This is away to limit the historical data to years after 1970
             #for j in range(len(dirList)):
             #  if (int(dirList[j].split('_')[-1].split('.')[0].split('-')[0][0:4]) < ymin):
             #    ind=ind+1
@@ -1658,7 +1661,7 @@ def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[N
                  nt1,ny1,nx1=data.shape
                  exec('nt2,ny2,nx2='+v+'_'+str(m)+'_'+str(k)+'.shape')
                  ny3=min(ny1,ny2);nx3=min(nx1,nx2)
-               #here we save the field 
+               #here we save the field
                exec(v+'_'+str(m)+'_'+str(k)+'[cc:cc+data.shape[0],:ny3,:nx3]=data')
              #save 3D field
              elif dims[c]==3:
@@ -1688,7 +1691,7 @@ def load_CMIP5(var,regime1,dims,models=None,scenario='rcp85',ensembles=None,z=[N
     return all_dict
 
 def increase_resolution(t1,s1,sig1,dz1,c=35, cn=15):
-  """ t2,s2,sig2,dz2,zaxis2=increase_resolution(t1,s1,sig1,dz1,c=35, n=15) 
+  """ t2,s2,sig2,dz2,zaxis2=increase_resolution(t1,s1,sig1,dz1,c=35, n=15)
       creates a new fields t2,s2,sig2,dz2 by adding n=cn-1 new layers between levels c,c+cn.
       The addition is done in sigma space and the thickness of the new layer is 1/2 of the thickness of the
       layer above and below. NOTE that cn must be 2>=2
@@ -1699,11 +1702,11 @@ def increase_resolution(t1,s1,sig1,dz1,c=35, cn=15):
   s2=ma.zeros((zn+n,s1.shape[1],s1.shape[2]))
   t2=ma.zeros((zn+n,t1.shape[1],t1.shape[2]))
   dz2=ma.zeros((zn+n,t1.shape[1],t1.shape[2]))
-  sig2=ma.zeros((zn+n,t1.shape[1],t1.shape[2])) 
+  sig2=ma.zeros((zn+n,t1.shape[1],t1.shape[2]))
   #
   #sig11=np.zeros(zn)
   #for j in range(zn):
-  #  sig11[j]=ma.max(sig1[j,:,:]) 
+  #  sig11[j]=ma.max(sig1[j,:,:])
   #
   #sig21=np.zeros(zn+n)
   #sig21[:c]=sig11[:c]; sig21[c+2*n:]=sig11[c+n:]
@@ -1725,19 +1728,19 @@ def increase_resolution(t1,s1,sig1,dz1,c=35, cn=15):
   zaxis=ma.cumsum(dz1,0)-dz1/2. #center of the cell
   zl_bound1=ma.cumsum(dz1,0) #Lower bound
   zu_bound1=np.zeros(dz1.shape)
-  zu_bound1[1:,:,:]=ma.cumsum(dz1,0)[:-1,:,:] #Upper bound  
+  zu_bound1[1:,:,:]=ma.cumsum(dz1,0)[:-1,:,:] #Upper bound
   #upper bounds above and below the region with higher res
   zu_bound2=np.zeros(sig2.shape)
   zu_bound2[:c,:,:]=zu_bound1[:c,:,:];
   zu_bound2[c+2*n:,:,:]=zu_bound1[c+n:,:,:]
   #lower bounds above and below the region with higher res
-  zl_bound2=np.zeros(sig2.shape); 
-  zl_bound2[:c,:,:]=zl_bound1[:c,:,:]; 
+  zl_bound2=np.zeros(sig2.shape);
+  zl_bound2[:c,:,:]=zl_bound1[:c,:,:];
   zl_bound2[c+2*n:,:,:]=zl_bound1[c+n:,:,:]
   #The high res area
   #initialize the old cells with the initial thickness
   zu_bound2[c:c+2*n:2,:,:]=zu_bound1[c:c+n,:,:];
-  zl_bound2[c:c+2*n:2,:,:]=zl_bound1[c:c+n,:,:]  
+  zl_bound2[c:c+2*n:2,:,:]=zl_bound1[c:c+n,:,:]
   #initialize the new cells with zero thickness
   zu_bound2[c+1:c+2*n:2,:,:]=zl_bound1[c:c+n,:,:];
   zl_bound2[c+1:c+2*n:2,:,:]=zl_bound1[c:c+n,:,:];
@@ -1815,7 +1818,7 @@ def latitude_line(lat0, lat):
         jind.append(ind)
         iind.append(i)
         i=i+1; i2=i2+1; i3=i3+1
-      elif len(jind)>0 and bipolar: #not (lat0<ma.max(lat[:,i:]) and lat0>=ma.min(lat[:,i:])): 
+      elif len(jind)>0 and bipolar: #not (lat0<ma.max(lat[:,i:]) and lat0>=ma.min(lat[:,i:])):
         #if the latitude doesn't exist and some indices are already there (situation close to north pole in in bipolar grid)
         #Also check that the latitude doesn't exist in the rest of the matrix (which cab be the case for the tripolar setup)
         #Then loop backwards
@@ -1843,7 +1846,7 @@ def latitude_line(lat0, lat):
     return iind, jind
 
 def heat_trasport(iind,jind,xtransport,ytransport):
-    """ calculate the heat transport accross a given line. 
+    """ calculate the heat transport accross a given line.
         calculate first iind and jiind. Note that this will work
         in a cartesian grid and on a NorESM type of C grid."""
     #looks already pretty good some things should be still figured out
@@ -1923,7 +1926,7 @@ def heat_trasport(iind,jind,xtransport,ytransport):
       #####################################
       #Step up-left (backwards up)
       elif jind[j-1]<jj and iind[j-1]>ii:
-        #add x transport from the cell to the right 
+        #add x transport from the cell to the right
         sumtot=ma.sum([sumtot,-1*xtransport[:,jj,ii+1]],0)
         if iind[j+1]<ii and jj+1<ytransport.shape[1]:
           #if the next step is not directly above add the transport from the cell above
@@ -2001,7 +2004,7 @@ def linear_trend(data,monthly=False):
                slope, intercept, r_value, p_value, std_err = stats.linregress(np.arange(dims[0]/months),data[j::months,i,k,n])
                trends[j,i,k,n]=slope; r[j,i,k,n]=r_value; p[j,i,k,n]=p_value
        trends=trends.squeeze(); r=r.squeeze(); p=p.squeeze()
-    
+
     return trends, r, p
 
 def make_segments(x, y):
@@ -2009,8 +2012,8 @@ def make_segments(x, y):
     Create list of line segments from x and y coordinates, in the correct format for LineCollection:
     an array of the form   numlines x (points per line) x 2 (x and y) array
     '''
-    
+
     points = np.array([x, y]).T.reshape(-1, 1, 2)
     segments = np.concatenate([points[:-1], points[1:]], axis=1)
-    
+
     return segments

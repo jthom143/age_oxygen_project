@@ -1,0 +1,221 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% amspaper.tex --  LaTeX-based template for submissions to American
+% Meteorological Society journals
+%
+% Template developed by Amy Hendrickson, 2013, TeXnology Inc.,
+% amyh@texnology.com, http://www.texnology.com
+% following earlier work by Brian Papa, American Meteorological Society
+%
+% Email questions to latex@ametsoc.org.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PREAMBLE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Start with one of the following:
+% DOUBLE-SPACED VERSION FOR SUBMISSION TO THE AMS
+\documentclass{ametsoc}
+
+% TWO-COLUMN JOURNAL PAGE LAYOUT---FOR AUTHOR USE ONLY
+%\documentclass[twocol]{ametsoc}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% To be entered only if twocol option is used
+
+\journal{jcli}
+
+%  Please choose a journal abbreviation to use above from the following list:
+%
+%   jamc     (Journal of Applied Meteorology and Climatology)
+%   jtech     (Journal of Atmospheric and Oceanic Technology)
+%   jhm      (Journal of Hydrometeorology)
+%   jpo     (Journal of Physical Oceanography)
+%   jas      (Journal of Atmospheric Sciences)
+%   jcli      (Journal of Climate)
+%   mwr      (Monthly Weather Review)
+%   wcas      (Weather, Climate, and Society)
+%   waf       (Weather and Forecasting)
+%   bams (Bulletin of the American Meteorological Society)
+%   ei    (Earth Interactions)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Citations should be of the form ``author year''  not ``author, year''
+\bibpunct{(}{)}{;}{a}{}{,}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% To be entered by author:
+
+%% May use \\ to break lines in title:
+
+\title{Investigating the relationship between age and oxygen on observational Line W}
+
+%%% Enter authors' names, as you see in this example:
+%%% Use \correspondingauthor{} and \thanks{Current Affiliation:...}
+%%% immediately following the appropriate author.
+%%%
+%%% Note that the \correspondingauthor{} command is NECESSARY.
+%%% The \thanks{} commands are OPTIONAL.
+
+\authors{Jordan Thomas\correspondingauthor{Jordan Thomas, Johns Hopkins
+         University, Department of Earth and Planetary Sciences,
+         Baltimore, MD, 21201}, Darryn Waugh, and Anand Gnanadesikan}
+
+\affiliation{Johns Hopkins University, Department of Earth and Planetary
+Sciences, Baltimore, MD, 21201}
+
+\email{jthom143@jhu.edu}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ABSTRACT
+%
+% Enter your Abstract here
+
+\abstract{}
+
+\begin{document}
+
+
+%% Necessary!
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MAIN BODY OF PAPER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}
+
+Understanding ocean circulation is one of the fundamental challenges of physical oceanography. While the large-scale circulation is generally well understood, quantifying smaller scale features is far more challenging. A common tool used in both observational and modeling studies is the concept of water ‘age’. Quantifying how long since a region of interior water has last has contact with the ocean surface can help in understanding how the water came to be in said location. In modeling studies, an ideal age tracer is often included in ocean model simulations. This ideal age ages at a rate of 1 year per year after the parcel of water has left the mixed layer. In observational studies, quantifying age is far more complicated. A common tool to quantify observational ocean age is the use of transient atmospheric tracers, most often atmospheric CFCs \dots
+
+While CFCs are a strong tool used to understand ocean circulation, there are some well-documented problems with the methodology. First because of the different time-series of various atmospheric tracers, each tracer will yield a slightly different ocean age than another for the same water mass. Therefore, it can be difficult to reconcile the different ages given by different tracers. Second, after the Montreal Protocol, and subsequent regulation in CFC emissions, atmospheric concentrations of CFCs have begun to decrease. This turnover in the time-series makes understanding ocean tracer age ambiguous. Finally, the mean age is dependent on the \ldots
+
+One idea that has been suggested is to use oxygen concentration as a proxy for age in the ocean. Oxygen is often time saturation (?) when in the surface mixed layer, and decreases due to biological consumption as it moves through the ocean interior. Gnanadesikan et al., 2012 show a robust relationship between the simulated change in age and change in oxygen in response to a global warming forcing (Gnanadesikan et al, 2012 – figure 3) \ldots
+
+In this paper we aim to investigate the relationship between oxygen and age along observational Line W.
+
+
+
+% METHODS
+
+\section{Methods}
+\subsection{Line W observational data}
+\subsection{Mean age calculation}
+\subsection{Model Simulation}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% RESULTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Section 1
+\section{Results}
+
+%% Subsection 1
+
+\subsection{Observational age-oxygen relationship}
+
+The climatologies of the calculated mean tracer age and oxygen concentration from the observational Line W are shown in Figure 2. The data has been interpolated to a grid with a vertical resolution of XXX and horizontal resolution of XXX. Additionally, the figure shows the average depths of the neutral density surfaces, represented by the black contour lines. Observing the two sub-plots, in general there appears to be a negative relationship between the two. There is relatively increased oxygen concentration, and zero age at the surface. This is consistent with the water being in contact at the surface where the oxygen and CFCs are at near-equilibrium with the atmosphere. Age then generally increases with depth, reaching local-maxima at just below the average depth of the 27.5 neutral density surface. Oxygen on the other hand generally decreases with depth, reaching local-minima along the average depth of the 27.5 neutral density surface. While the age and oxygen generally appear to follow a negative relationship, there are hints of a breakdown in this relationship in Figure 2. For example, oxygen increases with depth after the minimum at neutral density surface 27.5, while age also increases.
+
+In order to further investigate the relationship between mean age and oxygen, the Pearson correlation coefficient between age and oxygen is calculated along Line W and is shown in Figure 3 (a).  The figure largely shows the anticipated negative correlation between age and oxygen, however two regions of positive correlation are apparent. One positive correlation region is at approximate depths 500-750 dbars (between neutral density surfaces 27.0 and 27.5), and the second is slightly deeper at depths 1250 – 2000 dbars. Given the anticipated anti-correlation relationship between age and oxygen, especially in the ventilated thermocline, these regions of positive correlation are surprising. We additionally examine the relationship between the age and apparent oxygen utilization (AOU):
+
+\begin{equation}
+  AOU =  O_{2 sat} - O_2
+\end{equation}
+
+where $O_{2 sat}$ is the equilibrium saturation concentration of oxygen, calculated as a function of temperature and salinity, and $O_2$ is the observed oxygen concentration. The AOU is a measure of how under-saturated the oxygen concentration is. This under-saturation is usually due to biological consumption of oxygen. Analyzing the relationship between AOU and age gives us similar information to the age-oxygen relationship, however, because we are subtracting the oxygen concentration from the oxygen saturation, the AOU-age relationship will be the opposite sign (mainly positive) and the AOU-age relationship ignores the impacts of temperature (and salinity) on oxygen saturation.
+
+The Pearson correlation coefficient between age and AOU is shown in Figure 3 (b). As expected, most of the domain expresses a positive relationship between the two quantities. Similar to the age-oxygen pattern seen in the age-oxygen correlation coefficients (Figure 3 (a)), there are two regions with anomalous correlation. One upper region of zero correlation, consistent with the upper region of positive correlation seen in Figure 3 (a), and one deeper region of negative correlation, consistent with the deep region of positive correlation in Figure 3 (a). The fact that these patterns exist in the age-AOU correlation pattern in addition to the age-oxygen correlation pattern suggest that the signal is not entirely due to temperature influences on oxygen concentration. However it is important to note that the upper region of positive correlation seen in the age-oxygen relationship is significantly reduced in the age-AOU relationship, suggesting some influence of temperature.
+
+To better visualize and analyze the relationship between the mean age and oxygen along observational Line W, we show the scatter plot of age versus oxygen in Figure 4 (a). The scatter points are colored with each location’s correlation coefficient (same as in Figure 3 (a)). The `S-shape’ of the age-oxygen relationship roughly follows the depth of the water column, with the surface waters at the left end of the `S-shape’ and the deep waters at the right end. The positive correlation regions indicated from Figure 3 (a) also appear in this relationship shown in Figure 4 (a).
+
+The scatter relationship between age and AOU is shown in Figure 4 (b).  Similar to the age-oxygen scatter plot, the age-AOU scatter plot also roughly follows depth, with the surface waters at the left-hand side of the scatter plot, transitioning to the deeper waters at the right hand-side. The upper region of reduced/zero correlation discussed with Figure 3 (b) is seen on this diagram at an age of 50 years, just before the maximum in AOU. Additionally, the deeper region of negative correlation discussed with Figure 3 (b) is seen on this diagram on the almost-flat tail end of the scatterplot. Visualizing the age-AOU relationship in this way is a powerful tool because it allows us to gain initial insight to the mechanisms governing the AOU variability. The dashed linear lines represent the expected linear relationship between age and AOU with a variety of slopes. The slope of the linear relationship is directly proportional to the rate of remineralization. At the surface, where biological activity is higher, we have increased rates of remineralization, and therefore we would expect the age-AOU relationship to follow on the linear lines with a higher slope. As we move deeper in the water column, the slopes should decrease to reflect the slower rates of remineralization in the deep ocean.
+
+If the variability in AOU were driven exclusively by changes in the rate of ventilation (but not the pathways of ventilation or the rate of remineralization), we would expect the age-AOU relationship to fall along one of the dashed lines.  The upper region does follow this linear relationship (with a slope of 1.7). When the age-AOU relationship does not follow this linear relationship however, it indicates that other processes are influencing the variability in AOU. The right-hand tail of this relationship, where the correlation is negative, does not follow the anticipated linear relationship, and therefore we can infer that some additional process is influencing the AOU variability.
+
+What might such processes be? One possibility is a change in the rate of remineralization, driven by changes in biological productivity or by changes in the penetration of sinking organic material. This would move points between one linear relationship and another with a different slope. The other is that the pathways of ventilation might change, in turn changing the water masses seen at a given point. Insofar as these mixes in water masses are reflected in the AOU-Age structure, such changes might be expected to produce relationships parallel to the Age-AOU curve. We note that when the Age-AOU curve lies along a line, it will be difficult to distinguish changes in ventilation rate from changes in water mass type without bringing in more information.
+
+Our analysis of the age, oxygen and AOU observations along Line W suggests a breakdown of the anticipated relationship between age and oxygen. Through analyzing the age-AOU scatterplot we have determined that there are likely additional processes to ventilation that impact the oxygen/AOU variability, and thus result in a breakdown of the expected negative correlation between age and oxygen. In order to investigate these processes more thoroughly, we employ an Earth System model. In the next section we will examine the age-oxygen and age-AOU relationships in the model along a similar region to Line W. We will then investigate the mechanisms that impact the oxygen/AOU variability and result in the observed positive correlation between age and oxygen.
+
+\subsection{Modeled age-oxygen relationship}
+
+Because of the limited temporal and spatial resolution of the observational data, we additionally examine the age-oxygen relationship in an Earth System Model, GFDL ESM2Mc. The climatology of the ideal age tracer and oxygen concentration along Line W is shown in Figure 6. The modeled oxygen climatology is elevated at the surface and decreases with depth, with local-minima between the 26.5 and 27.0 average neutral density surfaces. The oxygen climatology then increases with depth. The modeled age climatology on the other hand is zero at the surface (consistent with the definition of ideal age). The age then increases with depth, with local-maxima on the 27.0 average neutral density surface. This overall picture is consistent with the observational data (Figure 2), although there is a more obvious offset between the depths of the local oxygen minima and local age maxima. Like with the observational data, this suggests a possible breakdown of the anticipated negative relationship between age and oxygen in this region.
+
+To quantify the modeled age-oxygen relationship on Line W we show the Pearson correlation coefficient for the model simulation (Figure 7 (a)). There is a region of positive correlation (with correlation coefficient of approximately 0.4) around depth 500 dbars, starting at distance 400 km and extending to the end of Line W. This region of positive correlation is similar to the upper region of positive correlation seen in the observational record (Figure 3 (a)). Interestingly, in the model simulation, there is no deeper region of positive correlation as seen in the observational correlation. We additionally show the Pearson correlation coefficient for age versus AOU (Figure 7 (b)) in order to remove the impacts of temperature of solubility. The area of anomalous correlation (now negative) around depth 500 dbars is greatly reduced in Figure 7 (b), suggesting that a fraction of the positive correlation seen in the age-oxygen correlation is due to solubility. However, this region still has a reduced positive correlation, suggesting some mechanism is impacting the age-AOU relationship.
+
+Similar to the analysis of the observational data, we show the scatter plots of age versus oxygen and AOU in Figure 8 (a). The shape of the modeled relationship between age and oxygen is similar to the shape of the observed age-oxygen relationship (Figure 4 (a)).  The oxygen and age scatter plot displays this S-type shape. The oxygen minimum is lower in the model, with an oxygen minimum of approximately 140 μmol kg-1 (compared to approximately 170 μmol kg-1 in the observations). Additionally, the oxygen minimum occurs at a slightly older age of 100 years, compared to the oxygen minimum in the observations, which occurs at a mean age of 75 years. Another difference between the age-oxygen relationships between the model and observations is the age change in the waters under the oxygen minimum. In the observational data, as the oxygen concentration increases (following depth) the age stays relatively constant at 100 years. In the model on the other hand, as the oxygen concentration increases, the age becomes younger, before rapidly increasing.
+
+The area of positive correlation between the age and oxygen occurs in the region of the oxygen minimum, when the oxygen begins to increases and while the age is still increasing. Since the shape of the relationship roughly follows depth, movement along this curve corresponds to vertical movement in the water column. In this region, if we move lower in the water column, age increases and oxygen also increases, therefore resulting in a positive correlation. This suggests that vertical movement in the water column could be causing the positive correlation.
+
+The modeled age-AOU scatter plot is shown in Figure 8 (b). The modeled relationship has similarities to the observed age-AOU relationship as shown in Figure 4 (b). As in Figure 4, the dashed grey lines represent the linear relationship between the age and AOU. In the upper region of the domain, the age and AOU follow this linear relationship quite closely (with a slope of 1.7). Slightly deeper in the water column, the age and AOU also closely follow a linear line, with a slightly smaller slope (slope of 0.8). In the deeper waters however, the age-AOU break away from the linear model, suggesting additional processes impacting the AOU variability.
+
+The region of positive correlation in Figure 8 (a) corresponds to the region of reduced positive correlation at the top of the shape in Figure 8 (b). In this region, at the maximum in the AOU, the age-AOU is not following the anticipated linear relationship, but instead seems to be between two water masses with different remineralization rates (as indicated by the different linear slopes). This result suggests that it is the exchange of water between the two water masses that is contributing to the reduced positive correlation in age versus AOU (or positive in the age-oxygen correlation).
+
+This analysis provides some initial insight to why the age-oxygen relationship displays an area of positive correlation. The age-AOU scatter plot suggests that vertical mixing between two water masses may be contributing to the anomalous correlation in the age-oxygen and age-AOU relationships. In the next section we will investigate the mechanisms driving the variability in age and oxygen further.
+
+\subsection{Mechanisms causing positive correlation}
+
+Based on the preliminary analysis from both the observational and model data on the age-oxygen relationship, we hypothesize that the positive relationship is due to a significant vertical isopycnal heave coinciding with a same-sign vertical gradient in age and oxygen (in this case a positive vertical gradient). In this section we will investigate this hypothesis further.
+
+In order to determine the effects of isopycnal heave on the age-oxygen correlation, we calculate the temporal correlation over the entire North Atlantic basin both on the average depth of various neutral density surfaces:
+
+\begin{equation}
+  r_{with heave} = corr()
+\end{equation}
+
+Additionally, we calculate the temporal correlation on the time-varying neutral density surfaces:
+
+\begin{equation}
+  r_{no heave} = corr()
+\end{equation}
+
+In both equations (2) and (3) above, n  designates the depth of a neutral density surface and the over bar designates the time average. It is important to note that the correlation of age and oxygen on the average depth of a neutral density surface (Equation 2) includes the influences of isopycnal heave. The calculation of the correlation between age and oxygen on the time-varying neutral density surfaces (Equation 3) does not include the impacts of isopycnal heave. Both of these correlations calculated on various neutral density surfaces are shown in Figure 9.  Investigating the correlation on the various density surfaces, we see that the positive correlation seen in the Line W cross section appears on the 27.0 neutral density surface when the correlation includes the effects of heave (Figure 9 (e)). This is consistent with the cross section of the correlation on Line W from Figure 7 (a), where the positive correlation region occurs right along the 27.0 neutral density surface. The positive correlation is not seen on the same density surface without vertical heave (Figure 9 (f)), suggesting that the anomalous correlation is in part due to the heaving of the neutral density surfaces. The lack of positive correlation elsewhere in the North Atlantic basin and elsewhere in the water column suggests that the mechanisms driving this positive correlation is quite isolated to this region at the end of Line W. While the correlation is not positive elsewhere in the basin, the age-oxygen correlation is reduced (just not positive) in the same region at the end of Line W.
+
+We additionally look at the correlation of age versus AOU with heave and without heave on various neutral density surfaces in Figure 10. As seen in Figure 7, when the temperature impacts are removed, we see a decrease in the magnitude of the anomalous correlation. This is apparent in Figure 10 (e), where we do not see a negative correlation at the end of Line W, but we do see a decrease in the positive correlation. This decreased positive correlation is seen on neutral density surfaces 26.5, 27.0, and most prominently on 27.5, for both cases of the correlation with heave and without heave. Additionally, the reduced positive correlation is only seen in the region directly around the end of the Line W transect. These results further imply that the mechanism driving the breakdown of the age-oxygen relationship is localized to this region.
+
+In order to diagnose what is causing this reduction in the negative age-oxygen correlation and positive age-AOU correlation, we additionally examine a region of the North Atlantic where this breakdown of the age-oxygen relationship does not occur. We refer to this region as Line 40N, a hypothetical transect that extends from Cape Cod eastward along latitude line 40N. This line is shown in Figures 9 and 10. This hypothetical transect follows along a region of the North Atlantic basin where the age-oxygen correlation is strongly negative and the age-AOU correlation is strongly positive for all neutral density surfaces. Comparing Line 40N and Line W allows us to asses the differences between the two and understand why Line W achieves this positive correlation in the age-oxygen relationship. The cross section of age and oxygen climatologies for both Line W and Line 40N is shown in Figure 11. Line 40N has less horizontal variation in the age and oxygen and the neutral density surfaces remain flat across the cross section. Figure 11 additionally shows the correlation between age and oxygen. As previously discussed, Line W has a region of positive correlation. Line 40N on the other hand has a strong negative correlation between age and oxygen in the upper 1500 dbars of the cross section. Finally Figure 11 compares the vertical profiles of age and oxygen along both lines. There appears to be less of a vertical offset between the age maximum and oxygen minimum on Line 40N compared with Line W.
+
+From Figure 9, we demonstrated that the positive correlation on line W is likely due in part to vertical heaving of the isopycnal surfaces acting on the background gradient in age and oxygen. In Figure 12 we examine this further. Figure 12 (a) and (b) show the vertical gradient for age and oxygen for Line W and Line 40N respectively. Line W shows a depth region where both the vertical gradients in age and oxygen are positive (600-800m depth), where the age and oxygen correlation are both positive. Line 40N also has a similar region where the gradients are both positive, although the gradients are smaller (about half) than Line W. Figure 12 (c) shows the standard deviation of neutral density as a function of depth for Line W (black line) and Line 40N (green line). The standard deviations are similar, through Line W is slightly more. These results suggest that the vertical gradients in age and oxygen along with the vertical movement of the isopycnal surfaces are not substantially different between the two lines and are therefore not the primary reason for the positive correlation along Line W.
+
+One possible reason Line 40N does maintains a strong negative correlation is due to strong along-isopycnal variability relative to Line W. In order to diagnose the relative contributions of this along-isopycnal variability (often referred to as the spice component) and the isopycnal heave variability, we break the time rate of change of age and oxygen as follows:
+
+\begin{equation}
+  \frac{d \Gamma}{dt} = 
+\end{equation}
+
+where the first term on the right hand side refers to the spice contribution and the second term on the right hand side refers to the heave contribution. Along line 40N, the spice contribution is much larger than along Line W (Figure 13). This suggests that the age and oxygen is driven by the along-isopycnal variability more so than the vertical heaving of the isopycnals.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CONCLUSIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Conclusions}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ACKNOWLEDGMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\acknowledgments{This research was supported by the U.S. National Science
+Foundation (NSF) under the grant FESD-1338814.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% REFERENCES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ \bibliographystyle{ametsoc2014}
+ \bibliography{/RESEARCH/library}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FIGURES---PLACE AT END OF DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% END OF AMSPAPER.TEX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
